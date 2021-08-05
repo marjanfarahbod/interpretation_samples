@@ -1,0 +1,129 @@
+bio_label	feature_name	feature_mean
+RegPermissive	(03) H3K36me3	0.5135673391992627
+RegPermissive	(08) 5' flanking (1-1000 bp)	1.130982614075527
+RegPermissive	(09) initial exon	1.056326223000197
+RegPermissive	(12) internal introns	-0.16613498373341504
+RegPermissive	(13) terminal exon	0.4992795671890011
+RegPermissive	(01) H3K9me3	0.7807447982775303
+RegPermissive	(11) internal exons	0.11490793256345724
+RegPermissive	(04) H3K4me3	0.8469424070307249
+RegPermissive	(10) initial intron	1.2367656560714744
+RegPermissive	(07) 5' flanking (1000-10000 bp)	0.4879395716719034
+RegPermissive	(06) H3K4me1	1.1777579844037165
+RegPermissive	(15) 3' flanking (1-1000 bp)	0.3136012312433233
+RegPermissive	(16) 3' flanking (1000-10000 bp)	0.46090182233048727
+RegPermissive	(14) terminal intron	0.4643372475801702
+RegPermissive	(05) H3K27ac	0.8280669302728392
+RegPermissive	(02) H3K27me3	0.710799215543789
+Bivalent	(03) H3K36me3	0.3396484210036454
+Bivalent	(08) 5' flanking (1-1000 bp)	3.4333336122972433
+Bivalent	(09) initial exon	3.9168540682437163
+Bivalent	(12) internal introns	0.9397855195589624
+Bivalent	(13) terminal exon	1.8013360875992404
+Bivalent	(01) H3K9me3	1.0131605634189926
+Bivalent	(11) internal exons	1.5126858736630031
+Bivalent	(04) H3K4me3	2.38989138536872
+Bivalent	(10) initial intron	3.3581431713300565
+Bivalent	(07) 5' flanking (1000-10000 bp)	1.1960765963369389
+Bivalent	(06) H3K4me1	2.285265898761597
+Bivalent	(15) 3' flanking (1-1000 bp)	1.17474636937027
+Bivalent	(16) 3' flanking (1000-10000 bp)	1.2860635731384251
+Bivalent	(14) terminal intron	2.0725511321875043
+Bivalent	(05) H3K27ac	1.0776885479713596
+Bivalent	(02) H3K27me3	2.874036391795632
+Quiescent	(03) H3K36me3	0.03704091666710185
+Quiescent	(08) 5' flanking (1-1000 bp)	-0.8963481813284182
+Quiescent	(09) initial exon	-1.2757667863375919
+Quiescent	(12) internal introns	-1.1302330116615786
+Quiescent	(13) terminal exon	-0.8904359062333341
+Quiescent	(01) H3K9me3	0.19519935698914884
+Quiescent	(11) internal exons	-1.2736369701995913
+Quiescent	(04) H3K4me3	0.17888821086580542
+Quiescent	(10) initial intron	-0.8970069756193595
+Quiescent	(07) 5' flanking (1000-10000 bp)	-0.5046957545693393
+Quiescent	(06) H3K4me1	0.07715934361233816
+Quiescent	(15) 3' flanking (1-1000 bp)	-0.6115653839096924
+Quiescent	(16) 3' flanking (1000-10000 bp)	-0.529491140298556
+Quiescent	(14) terminal intron	-0.9148074265340326
+Quiescent	(05) H3K27ac	0.253773111166965
+Quiescent	(02) H3K27me3	0.34616058305191955
+FacultativeHet	(03) H3K36me3	0.3096693901561812
+FacultativeHet	(08) 5' flanking (1-1000 bp)	-0.024875176692762565
+FacultativeHet	(09) initial exon	0.04575273147765911
+FacultativeHet	(12) internal introns	-0.3968416176661984
+FacultativeHet	(13) terminal exon	0.22108268043077695
+FacultativeHet	(01) H3K9me3	0.7129324910349388
+FacultativeHet	(11) internal exons	-0.37768150790770494
+FacultativeHet	(04) H3K4me3	0.6394605773068631
+FacultativeHet	(10) initial intron	0.0627867280793246
+FacultativeHet	(07) 5' flanking (1000-10000 bp)	0.2632494867111476
+FacultativeHet	(06) H3K4me1	0.352905871979337
+FacultativeHet	(15) 3' flanking (1-1000 bp)	0.1078279649965973
+FacultativeHet	(16) 3' flanking (1000-10000 bp)	0.2242130297740685
+FacultativeHet	(14) terminal intron	0.05229717589911628
+FacultativeHet	(05) H3K27ac	0.4425953064746351
+FacultativeHet	(02) H3K27me3	0.8613200027115512
+LowConfidence	(03) H3K36me3	0.8103096511717616
+LowConfidence	(08) 5' flanking (1-1000 bp)	0.3977615598682752
+LowConfidence	(09) initial exon	0.8522209724160983
+LowConfidence	(12) internal introns	0.5399500712994818
+LowConfidence	(13) terminal exon	0.9505725566217638
+LowConfidence	(01) H3K9me3	1.4036540669058515
+LowConfidence	(11) internal exons	0.6966988863947332
+LowConfidence	(04) H3K4me3	0.9190614481992405
+LowConfidence	(10) initial intron	0.5196367746895222
+LowConfidence	(07) 5' flanking (1000-10000 bp)	0.3876922216616383
+LowConfidence	(06) H3K4me1	0.4341330889944776
+LowConfidence	(15) 3' flanking (1-1000 bp)	0.5179933725624318
+LowConfidence	(16) 3' flanking (1000-10000 bp)	0.5249069735614814
+LowConfidence	(14) terminal intron	0.6867618076278375
+LowConfidence	(05) H3K27ac	0.5063536665995356
+LowConfidence	(02) H3K27me3	0.779217961513983
+Transcribed	(03) H3K36me3	1.7820963543678752
+Transcribed	(08) 5' flanking (1-1000 bp)	0.07863289270592462
+Transcribed	(09) initial exon	0.24792198610151428
+Transcribed	(12) internal introns	2.437080073904964
+Transcribed	(13) terminal exon	1.5435983834772578
+Transcribed	(01) H3K9me3	0.7853372031967781
+Transcribed	(11) internal exons	2.4586145088085396
+Transcribed	(04) H3K4me3	0.7480656081482502
+Transcribed	(10) initial intron	0.16039293001958044
+Transcribed	(07) 5' flanking (1000-10000 bp)	0.7258200719366832
+Transcribed	(06) H3K4me1	0.5616919500727209
+Transcribed	(15) 3' flanking (1-1000 bp)	1.261423835848048
+Transcribed	(16) 3' flanking (1000-10000 bp)	0.9155586147419238
+Transcribed	(14) terminal intron	1.8754429115211795
+Transcribed	(05) H3K27ac	0.6132810893448805
+Transcribed	(02) H3K27me3	0.5313790077273358
+Promoter	(03) H3K36me3	0.3343632280738741
+Promoter	(08) 5' flanking (1-1000 bp)	3.5524663000697765
+Promoter	(09) initial exon	4.4476576383193525
+Promoter	(12) internal introns	-0.09571300051739376
+Promoter	(13) terminal exon	1.3411075988499324
+Promoter	(01) H3K9me3	0.547999382401601
+Promoter	(11) internal exons	0.6243420140072958
+Promoter	(04) H3K4me3	2.0829599879554235
+Promoter	(10) initial intron	2.8827000361912622
+Promoter	(07) 5' flanking (1000-10000 bp)	0.8699329921649264
+Promoter	(06) H3K4me1	1.1641747010756598
+Promoter	(15) 3' flanking (1-1000 bp)	1.1214586178288837
+Promoter	(16) 3' flanking (1000-10000 bp)	1.012052317052755
+Promoter	(14) terminal intron	1.09723620565825
+Promoter	(05) H3K27ac	2.137204729340017
+Promoter	(02) H3K27me3	0.531162900783833
+Enhancer	(03) H3K36me3	0.7126871787748736
+Enhancer	(08) 5' flanking (1-1000 bp)	1.0862952547862896
+Enhancer	(09) initial exon	0.6392593355607574
+Enhancer	(12) internal introns	0.2449123484593509
+Enhancer	(13) terminal exon	0.7339188222548739
+Enhancer	(01) H3K9me3	0.28300807143527873
+Enhancer	(11) internal exons	0.3307279862020156
+Enhancer	(04) H3K4me3	0.8002302091325552
+Enhancer	(10) initial intron	1.1029203109427386
+Enhancer	(07) 5' flanking (1000-10000 bp)	0.6330217866295383
+Enhancer	(06) H3K4me1	2.517286287776828
+Enhancer	(15) 3' flanking (1-1000 bp)	0.728053087639398
+Enhancer	(16) 3' flanking (1000-10000 bp)	0.6376524790241104
+Enhancer	(14) terminal intron	0.6692961756764931
+Enhancer	(05) H3K27ac	2.767516110539032
+Enhancer	(02) H3K27me3	0.3341488701792166

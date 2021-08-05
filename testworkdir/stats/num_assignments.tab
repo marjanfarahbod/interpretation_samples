@@ -1,0 +1,9 @@
+bio_label	num_assignments	frac_assignments
+Transcribed	11	2.75
+Bivalent	1	0.25
+Promoter	3	0.75
+Quiescent	17	4.25
+RegPermissive	16	4.0
+Enhancer	1	0.25
+FacultativeHet	10	2.5
+LowConfidence	2	0.5

@@ -1,0 +1,1 @@
+2021/03/11 02:48:04 Running user action: docker run -v /mnt/local-disk:/cromwell_root --entrypoint= encodedcc/segway-pipeline@sha256:2c8323ecd71767d2aa1b30f19add74c4baba7c51b2c2863578093fe400c5e5e0 /bin/bash /cromwell_root/script

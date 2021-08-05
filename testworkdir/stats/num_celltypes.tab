@@ -1,0 +1,9 @@
+bio_label	num_celltypes
+Transcribed	1.0
+Bivalent	0.25
+Promoter	0.5
+Quiescent	1.0
+RegPermissive	1.0
+Enhancer	0.25
+FacultativeHet	1.0
+LowConfidence	0.5

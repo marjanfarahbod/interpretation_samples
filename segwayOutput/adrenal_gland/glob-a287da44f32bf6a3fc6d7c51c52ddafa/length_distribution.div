@@ -1,0 +1,89 @@
+<div class="module" id="length_distribution_length_distribution">
+  <h2><a href="#">^</a>  Length distribution</h2>
+  <table>
+    <tr>
+      <td valign="top">
+        <ul>
+          <li> Length distribution:<br />
+            A density plot of the lengths of all the segments for each label
+            (outliers are circled). A sharp left cutoff is expected if a
+            minimum segment length was imposed during segmentation.
+            <br />
+            <a href="$slidefilename">
+              <img src="$thumbfilename" />
+            </a>
+            <br />
+            [ <a href="$pngfilename">PNG</a> ]
+            [ <a href="$slidefilename">SLIDE</a> ]
+            [ <a href="length_distribution/length_distribution.pdf">PDF</a> ]
+            [ <a href="length_distribution/length_distribution.tab">TAB</a> ]
+          </li><br />
+          <li> Size distribution:<br />
+            The fraction, for each segment label, of the total number of bases 
+            and segments in the entire segmentation. The ratio of the base
+            fraction to the segment fraction is the mean segment length.
+            <br />
+            <a href="$sizesslidefilename">
+              <img src="$sizesthumbfilename" />
+            </a>
+            <br />
+            [ <a href="$sizespngfilename">PNG</a> ]
+            [ <a href="$sizesslidefilename">SLIDE</a> ]
+            [ <a href="length_distribution/segment_sizes.pdf">PDF</a> ]
+          </li><br />
+        </ul>
+      </td>
+      <td>
+        
+<table border="1" cellpadding="4" cellspacing="1">
+<tr>
+<td style="background-color:rgb(204, 204, 204)">label</td>
+<td style="background-color:rgb(204, 204, 204)">num.segs</td>
+<td style="background-color:rgb(204, 204, 204)">mean.len</td>
+<td style="background-color:rgb(204, 204, 204)">median.len</td>
+<td style="background-color:rgb(204, 204, 204)">stdev.len</td>
+<td style="background-color:rgb(204, 204, 204)">num.bp</td>
+<td style="background-color:rgb(204, 204, 204)">frac.bp
+</td>
+</tr>
+<tr><td>all</td><td>2635876</td><td>1176.050</td><td>1000.000</td><td>30756.274</td><td>3099922541</td><td>1.000
+</td></tr>
+<tr><td>0</td><td>214910</td><td>1036.084</td><td>1000.000</td><td>458.806</td><td>222664753</td><td>0.072
+</td></tr>
+<tr><td>1</td><td>182752</td><td>1183.583</td><td>900.000</td><td>943.372</td><td>216302085</td><td>0.070
+</td></tr>
+<tr><td>2</td><td>258005</td><td>1258.633</td><td>1100.000</td><td>837.075</td><td>324733546</td><td>0.105
+</td></tr>
+<tr><td>3</td><td>139000</td><td>1008.038</td><td>1000.000</td><td>517.282</td><td>140117333</td><td>0.045
+</td></tr>
+<tr><td>4</td><td>260988</td><td>1087.816</td><td>1000.000</td><td>427.390</td><td>283906871</td><td>0.092
+</td></tr>
+<tr><td>5</td><td>274219</td><td>1048.321</td><td>1000.000</td><td>487.832</td><td>287469563</td><td>0.093
+</td></tr>
+<tr><td>6</td><td>41957</td><td>7080.071</td><td>1100.000</td><td>243663.127</td><td>297058533</td><td>0.096
+</td></tr>
+<tr><td>7</td><td>48767</td><td>897.945</td><td>800.000</td><td>501.910</td><td>43790100</td><td>0.014
+</td></tr>
+<tr><td>8</td><td>11525</td><td>618.039</td><td>600.000</td><td>304.178</td><td>7122900</td><td>0.002
+</td></tr>
+<tr><td>9</td><td>227261</td><td>1073.251</td><td>1000.000</td><td>524.869</td><td>243908060</td><td>0.079
+</td></tr>
+<tr><td>10</td><td>281935</td><td>1100.858</td><td>1000.000</td><td>428.860</td><td>310370461</td><td>0.100
+</td></tr>
+<tr><td>11</td><td>169886</td><td>1009.711</td><td>900.000</td><td>567.632</td><td>171535838</td><td>0.055
+</td></tr>
+<tr><td>12</td><td>127751</td><td>874.399</td><td>800.000</td><td>422.144</td><td>111705406</td><td>0.036
+</td></tr>
+<tr><td>13</td><td>27815</td><td>593.216</td><td>500.000</td><td>303.858</td><td>16500300</td><td>0.005
+</td></tr>
+<tr><td>14</td><td>369105</td><td>1145.302</td><td>1100.000</td><td>466.739</td><td>422736792</td><td>0.136
+</td></tr>
+</table>
+
+        <br />
+        [ <a href="length_distribution/segment_sizes.tab">TAB</a> ]
+      </td>
+    </tr>
+  </table>
+</div>
+

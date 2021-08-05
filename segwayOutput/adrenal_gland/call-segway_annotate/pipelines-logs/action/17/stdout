@@ -1,0 +1,11 @@
+2021/03/11 04:16:26 Delocalization script execution started...
+2021/03/11 04:16:26 Delocalizing output /cromwell_root/memory_retry_rc -> gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_annotate/memory_retry_rc
+2021/03/11 04:16:28 Delocalizing output /cromwell_root/rc -> gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_annotate/rc
+2021/03/11 04:16:29 Delocalizing output /cromwell_root/monitoring.log -> gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_annotate/monitoring.log
+2021/03/11 04:16:30 Delocalizing output /cromwell_root/stdout -> gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_annotate/stdout
+2021/03/11 04:16:31 Delocalizing output /cromwell_root/stderr -> gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_annotate/stderr
+2021/03/11 04:16:33 Delocalizing output /cromwell_root/segway.bed.gz -> gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_annotate/segway.bed.gz
+2021/03/11 04:16:34 Delocalizing output /cromwell_root/glob-e59fb0efcac8bc0ed00369eb031c972e -> gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_annotate/glob-e59fb0efcac8bc0ed00369eb031c972e/
+2021/03/11 04:16:40 Delocalizing output /cromwell_root/glob-e59fb0efcac8bc0ed00369eb031c972e.list -> gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_annotate/glob-e59fb0efcac8bc0ed00369eb031c972e.list
+2021/03/11 04:16:41 Delocalizing output /cromwell_root/training_params.tar.gz -> gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_annotate/training_params.tar.gz
+2021/03/11 04:16:43 Delocalization script execution complete.

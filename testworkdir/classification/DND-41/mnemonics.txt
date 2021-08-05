@@ -1,0 +1,16 @@
+old	new
+4	RegPermissive
+8	FacultativeHet
+1	Quiescent
+12	FacultativeHet
+10	FacultativeHet
+5	Quiescent
+3	FacultativeHet
+9	Quiescent
+11	Transcribed
+2	RegPermissive
+7	RegPermissive
+14	Quiescent
+13	RegPermissive
+6	Transcribed
+0	Transcribed

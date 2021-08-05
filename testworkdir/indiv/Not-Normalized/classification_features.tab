@@ -1,0 +1,977 @@
+celltype	feature_name	int_label	bio_label	label_key	feature_val
+HAP-1	(09) initial exon	4	RegPermissive	RegPermissive_4	-0.6958728966759752
+HAP-1	(01) H3K9me3	4	RegPermissive	RegPermissive_4	0.8914050490794236
+HAP-1	(10) initial intron	4	RegPermissive	RegPermissive_4	0.09913332050451512
+HAP-1	(02) H3K27me3	4	RegPermissive	RegPermissive_4	0.8188641603618906
+HAP-1	(11) internal exons	4	RegPermissive	RegPermissive_4	-0.3422313839707548
+HAP-1	(04) H3K4me3	4	RegPermissive	RegPermissive_4	0.6254102600172285
+HAP-1	(16) 3' flanking (1000-10000 bp)	4	RegPermissive	RegPermissive_4	0.050006392577631065
+HAP-1	(12) internal introns	4	RegPermissive	RegPermissive_4	-0.3129523740777222
+HAP-1	(03) H3K36me3	4	RegPermissive	RegPermissive_4	0.9131157177286041
+HAP-1	(13) terminal exon	4	RegPermissive	RegPermissive_4	-0.18759123247320844
+HAP-1	(06) H3K4me1	4	RegPermissive	RegPermissive_4	0.8998141076035859
+HAP-1	(14) terminal intron	4	RegPermissive	RegPermissive_4	-0.34307505585565257
+HAP-1	(07) 5' flanking (1000-10000 bp)	4	RegPermissive	RegPermissive_4	0.08081485154204028
+HAP-1	(05) H3K27ac	4	RegPermissive	RegPermissive_4	0.8826771062439721
+HAP-1	(15) 3' flanking (1-1000 bp)	4	RegPermissive	RegPermissive_4	-0.01313855691409315
+HAP-1	(08) 5' flanking (1-1000 bp)	4	RegPermissive	RegPermissive_4	-0.032153425158242384
+HAP-1	(09) initial exon	8	RegPermissive	RegPermissive_8	-0.02373585820317568
+HAP-1	(01) H3K9me3	8	RegPermissive	RegPermissive_8	0.7089808854188149
+HAP-1	(10) initial intron	8	RegPermissive	RegPermissive_8	0.8083419978932775
+HAP-1	(02) H3K27me3	8	RegPermissive	RegPermissive_8	0.6673328919945595
+HAP-1	(11) internal exons	8	RegPermissive	RegPermissive_8	-0.3577258346748501
+HAP-1	(04) H3K4me3	8	RegPermissive	RegPermissive_8	0.6102377302828762
+HAP-1	(16) 3' flanking (1000-10000 bp)	8	RegPermissive	RegPermissive_8	0.11716153573328393
+HAP-1	(12) internal introns	8	RegPermissive	RegPermissive_8	-0.4232207209838698
+HAP-1	(03) H3K36me3	8	RegPermissive	RegPermissive_8	0.7713611104921045
+HAP-1	(13) terminal exon	8	RegPermissive	RegPermissive_8	0.03822744302891637
+HAP-1	(06) H3K4me1	8	RegPermissive	RegPermissive_8	1.3229312502327726
+HAP-1	(14) terminal intron	8	RegPermissive	RegPermissive_8	-0.10671360693910892
+HAP-1	(07) 5' flanking (1000-10000 bp)	8	RegPermissive	RegPermissive_8	0.3518125273486493
+HAP-1	(05) H3K27ac	8	RegPermissive	RegPermissive_8	0.9252681472903266
+HAP-1	(15) 3' flanking (1-1000 bp)	8	RegPermissive	RegPermissive_8	0.14138477008614786
+HAP-1	(08) 5' flanking (1-1000 bp)	8	RegPermissive	RegPermissive_8	0.6778646358466124
+HAP-1	(09) initial exon	1	Quiescent	Quiescent_1	0.2659624460079375
+HAP-1	(01) H3K9me3	1	Quiescent	Quiescent_1	0.4693402577466176
+HAP-1	(10) initial intron	1	Quiescent	Quiescent_1	0.07993204709720386
+HAP-1	(02) H3K27me3	1	Quiescent	Quiescent_1	0.4103719893974818
+HAP-1	(11) internal exons	1	Quiescent	Quiescent_1	-0.451862499111915
+HAP-1	(04) H3K4me3	1	Quiescent	Quiescent_1	0.2837895597465663
+HAP-1	(16) 3' flanking (1000-10000 bp)	1	Quiescent	Quiescent_1	0.18041768160185606
+HAP-1	(12) internal introns	1	Quiescent	Quiescent_1	-0.274396117702342
+HAP-1	(03) H3K36me3	1	Quiescent	Quiescent_1	0.3675483796860784
+HAP-1	(13) terminal exon	1	Quiescent	Quiescent_1	0.12366579076274073
+HAP-1	(06) H3K4me1	1	Quiescent	Quiescent_1	0.3456134240648931
+HAP-1	(14) terminal intron	1	Quiescent	Quiescent_1	0.15648107591056834
+HAP-1	(07) 5' flanking (1000-10000 bp)	1	Quiescent	Quiescent_1	0.1294899193030695
+HAP-1	(05) H3K27ac	1	Quiescent	Quiescent_1	0.38560452755253133
+HAP-1	(15) 3' flanking (1-1000 bp)	1	Quiescent	Quiescent_1	0.09918104542410806
+HAP-1	(08) 5' flanking (1-1000 bp)	1	Quiescent	Quiescent_1	0.058182021422055336
+HAP-1	(09) initial exon	12	FacultativeHet	FacultativeHet_12	-0.07307161907920959
+HAP-1	(01) H3K9me3	12	FacultativeHet	FacultativeHet_12	0.7862496670286793
+HAP-1	(10) initial intron	12	FacultativeHet	FacultativeHet_12	0.11411818920278158
+HAP-1	(02) H3K27me3	12	FacultativeHet	FacultativeHet_12	1.2284767913715662
+HAP-1	(11) internal exons	12	FacultativeHet	FacultativeHet_12	-0.3950176340588527
+HAP-1	(04) H3K4me3	12	FacultativeHet	FacultativeHet_12	0.5471091755549325
+HAP-1	(16) 3' flanking (1000-10000 bp)	12	FacultativeHet	FacultativeHet_12	0.09393046096139873
+HAP-1	(12) internal introns	12	FacultativeHet	FacultativeHet_12	-0.4394766768027914
+HAP-1	(03) H3K36me3	12	FacultativeHet	FacultativeHet_12	0.6943681527266169
+HAP-1	(13) terminal exon	12	FacultativeHet	FacultativeHet_12	-0.04703258189418711
+HAP-1	(06) H3K4me1	12	FacultativeHet	FacultativeHet_12	0.7157454308457766
+HAP-1	(14) terminal intron	12	FacultativeHet	FacultativeHet_12	-0.07807278532239399
+HAP-1	(07) 5' flanking (1000-10000 bp)	12	FacultativeHet	FacultativeHet_12	0.2646527048845691
+HAP-1	(05) H3K27ac	12	FacultativeHet	FacultativeHet_12	0.7026681542736471
+HAP-1	(15) 3' flanking (1-1000 bp)	12	FacultativeHet	FacultativeHet_12	0.028470939125069768
+HAP-1	(08) 5' flanking (1-1000 bp)	12	FacultativeHet	FacultativeHet_12	0.13544769163763218
+HAP-1	(09) initial exon	10	RegPermissive	RegPermissive_10	-0.8976213391604024
+HAP-1	(01) H3K9me3	10	RegPermissive	RegPermissive_10	0.7270873096328221
+HAP-1	(10) initial intron	10	RegPermissive	RegPermissive_10	-0.703126377303942
+HAP-1	(02) H3K27me3	10	RegPermissive	RegPermissive_10	0.8225344502012797
+HAP-1	(11) internal exons	10	RegPermissive	RegPermissive_10	-1.0047802347299897
+HAP-1	(04) H3K4me3	10	RegPermissive	RegPermissive_10	0.5107656395175711
+HAP-1	(16) 3' flanking (1000-10000 bp)	10	RegPermissive	RegPermissive_10	-0.2801973716180887
+HAP-1	(12) internal introns	10	RegPermissive	RegPermissive_10	-1.0019103337163229
+HAP-1	(03) H3K36me3	10	RegPermissive	RegPermissive_10	0.6835234708253056
+HAP-1	(13) terminal exon	10	RegPermissive	RegPermissive_10	-0.5722810542291658
+HAP-1	(06) H3K4me1	10	RegPermissive	RegPermissive_10	0.7487820119674091
+HAP-1	(14) terminal intron	10	RegPermissive	RegPermissive_10	-0.7177266693384904
+HAP-1	(07) 5' flanking (1000-10000 bp)	10	RegPermissive	RegPermissive_10	-0.2488295676141573
+HAP-1	(05) H3K27ac	10	RegPermissive	RegPermissive_10	0.7553846640868173
+HAP-1	(15) 3' flanking (1-1000 bp)	10	RegPermissive	RegPermissive_10	-0.3826698226859727
+HAP-1	(08) 5' flanking (1-1000 bp)	10	RegPermissive	RegPermissive_10	-0.6771857902426036
+HAP-1	(09) initial exon	5	Quiescent	Quiescent_5	-0.6297675627744195
+HAP-1	(01) H3K9me3	5	Quiescent	Quiescent_5	0.5916402371350564
+HAP-1	(10) initial intron	5	Quiescent	Quiescent_5	-0.3239825070917416
+HAP-1	(02) H3K27me3	5	Quiescent	Quiescent_5	0.5660236629129073
+HAP-1	(11) internal exons	5	Quiescent	Quiescent_5	-0.5915832235332297
+HAP-1	(04) H3K4me3	5	Quiescent	Quiescent_5	0.42727201877906734
+HAP-1	(16) 3' flanking (1000-10000 bp)	5	Quiescent	Quiescent_5	-0.1005933537317174
+HAP-1	(12) internal introns	5	Quiescent	Quiescent_5	-0.4912535302474477
+HAP-1	(03) H3K36me3	5	Quiescent	Quiescent_5	0.5912596933484698
+HAP-1	(13) terminal exon	5	Quiescent	Quiescent_5	-0.3274162361414503
+HAP-1	(06) H3K4me1	5	Quiescent	Quiescent_5	0.6280453417912951
+HAP-1	(14) terminal intron	5	Quiescent	Quiescent_5	-0.3924318362556388
+HAP-1	(07) 5' flanking (1000-10000 bp)	5	Quiescent	Quiescent_5	-0.11758167572070585
+HAP-1	(05) H3K27ac	5	Quiescent	Quiescent_5	0.6494926326799143
+HAP-1	(15) 3' flanking (1-1000 bp)	5	Quiescent	Quiescent_5	-0.16806800066747524
+HAP-1	(08) 5' flanking (1-1000 bp)	5	Quiescent	Quiescent_5	-0.4568432856713622
+HAP-1	(09) initial exon	3	RegPermissive	RegPermissive_3	0.7584475829711945
+HAP-1	(01) H3K9me3	3	RegPermissive	RegPermissive_3	0.6413003075691095
+HAP-1	(10) initial intron	3	RegPermissive	RegPermissive_3	0.4241168254759701
+HAP-1	(02) H3K27me3	3	RegPermissive	RegPermissive_3	0.6224243378756686
+HAP-1	(11) internal exons	3	RegPermissive	RegPermissive_3	0.007138259504785956
+HAP-1	(04) H3K4me3	3	RegPermissive	RegPermissive_3	0.6476927528339749
+HAP-1	(16) 3' flanking (1000-10000 bp)	3	RegPermissive	RegPermissive_3	0.2658088901828948
+HAP-1	(12) internal introns	3	RegPermissive	RegPermissive_3	-0.10675422254081604
+HAP-1	(03) H3K36me3	3	RegPermissive	RegPermissive_3	0.6896539509314366
+HAP-1	(13) terminal exon	3	RegPermissive	RegPermissive_3	0.2520995298673842
+HAP-1	(06) H3K4me1	3	RegPermissive	RegPermissive_3	1.4234385210123004
+HAP-1	(14) terminal intron	3	RegPermissive	RegPermissive_3	0.16275891837155826
+HAP-1	(07) 5' flanking (1000-10000 bp)	3	RegPermissive	RegPermissive_3	0.31169610969472683
+HAP-1	(05) H3K27ac	3	RegPermissive	RegPermissive_3	1.0210886440532991
+HAP-1	(15) 3' flanking (1-1000 bp)	3	RegPermissive	RegPermissive_3	0.3622473271559998
+HAP-1	(08) 5' flanking (1-1000 bp)	3	RegPermissive	RegPermissive_3	1.0093998601983425
+HAP-1	(09) initial exon	9	Transcribed	Transcribed_9	-0.2478946155225288
+HAP-1	(01) H3K9me3	9	Transcribed	Transcribed_9	0.6268908307104216
+HAP-1	(10) initial intron	9	Transcribed	Transcribed_9	0.10200122630204828
+HAP-1	(02) H3K27me3	9	Transcribed	Transcribed_9	0.5450390021412059
+HAP-1	(11) internal exons	9	Transcribed	Transcribed_9	1.5006023104514152
+HAP-1	(04) H3K4me3	9	Transcribed	Transcribed_9	0.4736290885506747
+HAP-1	(16) 3' flanking (1000-10000 bp)	9	Transcribed	Transcribed_9	0.514009846341522
+HAP-1	(12) internal introns	9	Transcribed	Transcribed_9	1.635845905252766
+HAP-1	(03) H3K36me3	9	Transcribed	Transcribed_9	0.998036806609646
+HAP-1	(13) terminal exon	9	Transcribed	Transcribed_9	0.8419428062494491
+HAP-1	(06) H3K4me1	9	Transcribed	Transcribed_9	0.611511102671745
+HAP-1	(14) terminal intron	9	Transcribed	Transcribed_9	1.0555637366182116
+HAP-1	(07) 5' flanking (1000-10000 bp)	9	Transcribed	Transcribed_9	0.3087859909405181
+HAP-1	(05) H3K27ac	9	Transcribed	Transcribed_9	0.7303866956968449
+HAP-1	(15) 3' flanking (1-1000 bp)	9	Transcribed	Transcribed_9	0.8171431788280797
+HAP-1	(08) 5' flanking (1-1000 bp)	9	Transcribed	Transcribed_9	-0.2899676867382047
+HAP-1	(09) initial exon	11	RegPermissive	RegPermissive_11	2.951499338841998
+HAP-1	(01) H3K9me3	11	RegPermissive	RegPermissive_11	0.4782698248669295
+HAP-1	(10) initial intron	11	RegPermissive	RegPermissive_11	0.9772141218714004
+HAP-1	(02) H3K27me3	11	RegPermissive	RegPermissive_11	0.4520874515386857
+HAP-1	(11) internal exons	11	RegPermissive	RegPermissive_11	-0.26131404595539104
+HAP-1	(04) H3K4me3	11	RegPermissive	RegPermissive_11	0.902336687624172
+HAP-1	(16) 3' flanking (1000-10000 bp)	11	RegPermissive	RegPermissive_11	0.4030713027852647
+HAP-1	(12) internal introns	11	RegPermissive	RegPermissive_11	-0.3786093295477109
+HAP-1	(03) H3K36me3	11	RegPermissive	RegPermissive_11	0.5169219130314778
+HAP-1	(13) terminal exon	11	RegPermissive	RegPermissive_11	0.6610014021520088
+HAP-1	(06) H3K4me1	11	RegPermissive	RegPermissive_11	1.1898245470903617
+HAP-1	(14) terminal intron	11	RegPermissive	RegPermissive_11	0.06734520318373008
+HAP-1	(07) 5' flanking (1000-10000 bp)	11	RegPermissive	RegPermissive_11	0.35956048103221144
+HAP-1	(05) H3K27ac	11	RegPermissive	RegPermissive_11	1.1542984210549472
+HAP-1	(15) 3' flanking (1-1000 bp)	11	RegPermissive	RegPermissive_11	0.5990863029438328
+HAP-1	(08) 5' flanking (1-1000 bp)	11	RegPermissive	RegPermissive_11	2.6553419787596693
+HAP-1	(09) initial exon	2	FacultativeHet	FacultativeHet_2	-0.1908711230711932
+HAP-1	(01) H3K9me3	2	FacultativeHet	FacultativeHet_2	0.6285097928176273
+HAP-1	(10) initial intron	2	FacultativeHet	FacultativeHet_2	-0.14194719989835736
+HAP-1	(02) H3K27me3	2	FacultativeHet	FacultativeHet_2	0.8608353520355141
+HAP-1	(11) internal exons	2	FacultativeHet	FacultativeHet_2	-0.34816455255370593
+HAP-1	(04) H3K4me3	2	FacultativeHet	FacultativeHet_2	0.4270677054220989
+HAP-1	(16) 3' flanking (1000-10000 bp)	2	FacultativeHet	FacultativeHet_2	-0.025658633944843967
+HAP-1	(12) internal introns	2	FacultativeHet	FacultativeHet_2	-0.4062867348435323
+HAP-1	(03) H3K36me3	2	FacultativeHet	FacultativeHet_2	0.5273122641776146
+HAP-1	(13) terminal exon	2	FacultativeHet	FacultativeHet_2	-0.07225653875176935
+HAP-1	(06) H3K4me1	2	FacultativeHet	FacultativeHet_2	0.5270068709625432
+HAP-1	(14) terminal intron	2	FacultativeHet	FacultativeHet_2	-0.11940077881897995
+HAP-1	(07) 5' flanking (1000-10000 bp)	2	FacultativeHet	FacultativeHet_2	0.003916940200103043
+HAP-1	(05) H3K27ac	2	FacultativeHet	FacultativeHet_2	0.5526117546554431
+HAP-1	(15) 3' flanking (1-1000 bp)	2	FacultativeHet	FacultativeHet_2	-0.1039109038711626
+HAP-1	(08) 5' flanking (1-1000 bp)	2	FacultativeHet	FacultativeHet_2	-0.2458259435900763
+HAP-1	(09) initial exon	7	Quiescent	Quiescent_7	-0.2784565892921289
+HAP-1	(01) H3K9me3	7	Quiescent	Quiescent_7	0.7836698366391348
+HAP-1	(10) initial intron	7	Quiescent	Quiescent_7	-0.4847295670619944
+HAP-1	(02) H3K27me3	7	Quiescent	Quiescent_7	0.5045546952329915
+HAP-1	(11) internal exons	7	Quiescent	Quiescent_7	-1.1163927645242016
+HAP-1	(04) H3K4me3	7	Quiescent	Quiescent_7	0.3958022644501165
+HAP-1	(16) 3' flanking (1000-10000 bp)	7	Quiescent	Quiescent_7	-0.17226955746842434
+HAP-1	(12) internal introns	7	Quiescent	Quiescent_7	-1.1121321491143799
+HAP-1	(03) H3K36me3	7	Quiescent	Quiescent_7	0.5055942727586477
+HAP-1	(13) terminal exon	7	Quiescent	Quiescent_7	-0.20692164124208934
+HAP-1	(06) H3K4me1	7	Quiescent	Quiescent_7	0.4598335923397075
+HAP-1	(14) terminal intron	7	Quiescent	Quiescent_7	-0.4539350586842581
+HAP-1	(07) 5' flanking (1000-10000 bp)	7	Quiescent	Quiescent_7	-0.21810785607201166
+HAP-1	(05) H3K27ac	7	Quiescent	Quiescent_7	0.4875834168201961
+HAP-1	(15) 3' flanking (1-1000 bp)	7	Quiescent	Quiescent_7	-0.2936425423771017
+HAP-1	(08) 5' flanking (1-1000 bp)	7	Quiescent	Quiescent_7	-0.39740814629629495
+HAP-1	(09) initial exon	14	Transcribed	Transcribed_14	0.08993801683525998
+HAP-1	(01) H3K9me3	14	Transcribed	Transcribed_14	0.7126661016162655
+HAP-1	(10) initial intron	14	Transcribed	Transcribed_14	-0.006392459404849342
+HAP-1	(02) H3K27me3	14	Transcribed	Transcribed_14	0.6272379299582617
+HAP-1	(11) internal exons	14	Transcribed	Transcribed_14	2.883368670037853
+HAP-1	(04) H3K4me3	14	Transcribed	Transcribed_14	0.5567549851022646
+HAP-1	(16) 3' flanking (1000-10000 bp)	14	Transcribed	Transcribed_14	0.959592720110942
+HAP-1	(12) internal introns	14	Transcribed	Transcribed_14	2.78847463529427
+HAP-1	(03) H3K36me3	14	Transcribed	Transcribed_14	1.5603707347111078
+HAP-1	(13) terminal exon	14	Transcribed	Transcribed_14	1.7177792182790517
+HAP-1	(06) H3K4me1	14	Transcribed	Transcribed_14	0.7198899545427988
+HAP-1	(14) terminal intron	14	Transcribed	Transcribed_14	2.1058975977106
+HAP-1	(07) 5' flanking (1000-10000 bp)	14	Transcribed	Transcribed_14	0.8402560028828318
+HAP-1	(05) H3K27ac	14	Transcribed	Transcribed_14	0.8594484817509295
+HAP-1	(15) 3' flanking (1-1000 bp)	14	Transcribed	Transcribed_14	1.3702109245353669
+HAP-1	(08) 5' flanking (1-1000 bp)	14	Transcribed	Transcribed_14	0.05322848333011642
+HAP-1	(09) initial exon	13	RegPermissive	RegPermissive_13	4.7726720275394285
+HAP-1	(01) H3K9me3	13	RegPermissive	RegPermissive_13	0.6236456670416543
+HAP-1	(10) initial intron	13	RegPermissive	RegPermissive_13	4.044765970713635
+HAP-1	(02) H3K27me3	13	RegPermissive	RegPermissive_13	0.5914021688907616
+HAP-1	(11) internal exons	13	RegPermissive	RegPermissive_13	1.4419856586362017
+HAP-1	(04) H3K4me3	13	RegPermissive	RegPermissive_13	3.646466207992079
+HAP-1	(16) 3' flanking (1000-10000 bp)	13	RegPermissive	RegPermissive_13	1.369113983595902
+HAP-1	(12) internal introns	13	RegPermissive	RegPermissive_13	0.5695013732695119
+HAP-1	(03) H3K36me3	13	RegPermissive	RegPermissive_13	0.87382091271053
+HAP-1	(13) terminal exon	13	RegPermissive	RegPermissive_13	1.646843365963235
+HAP-1	(06) H3K4me1	13	RegPermissive	RegPermissive_13	0.9109655883138348
+HAP-1	(14) terminal intron	13	RegPermissive	RegPermissive_13	1.632999538161732
+HAP-1	(07) 5' flanking (1000-10000 bp)	13	RegPermissive	RegPermissive_13	1.3033009974240752
+HAP-1	(05) H3K27ac	13	RegPermissive	RegPermissive_13	1.5613888624613317
+HAP-1	(15) 3' flanking (1-1000 bp)	13	RegPermissive	RegPermissive_13	1.3116493091897727
+HAP-1	(08) 5' flanking (1-1000 bp)	13	RegPermissive	RegPermissive_13	4.1803829984067296
+HAP-1	(09) initial exon	6	Quiescent	Quiescent_6	-0.6728284921130785
+HAP-1	(01) H3K9me3	6	Quiescent	Quiescent_6	0.02044817996636211
+HAP-1	(10) initial intron	6	Quiescent	Quiescent_6	-0.7190061750208528
+HAP-1	(02) H3K27me3	6	Quiescent	Quiescent_6	0.015038481297612894
+HAP-1	(11) internal exons	6	Quiescent	Quiescent_6	-1.147938061543751
+HAP-1	(04) H3K4me3	6	Quiescent	Quiescent_6	0.010652005058522157
+HAP-1	(16) 3' flanking (1000-10000 bp)	6	Quiescent	Quiescent_6	-0.649125493565431
+HAP-1	(12) internal introns	6	Quiescent	Quiescent_6	-1.1634596429348738
+HAP-1	(03) H3K36me3	6	Quiescent	Quiescent_6	0.014249467143562131
+HAP-1	(13) terminal exon	6	Quiescent	Quiescent_6	-0.6695385655807917
+HAP-1	(06) H3K4me1	6	Quiescent	Quiescent_6	0.012837376053984145
+HAP-1	(14) terminal intron	6	Quiescent	Quiescent_6	-0.6877372207589612
+HAP-1	(07) 5' flanking (1000-10000 bp)	6	Quiescent	Quiescent_6	-0.6692678401490302
+HAP-1	(05) H3K27ac	6	Quiescent	Quiescent_6	0.014770363969853768
+HAP-1	(15) 3' flanking (1-1000 bp)	6	Quiescent	Quiescent_6	-0.6559572494566822
+HAP-1	(08) 5' flanking (1-1000 bp)	6	Quiescent	Quiescent_6	-0.7027986636782683
+HAP-1	(09) initial exon	0	RegPermissive	RegPermissive_0	-0.770608949798333
+HAP-1	(01) H3K9me3	0	RegPermissive	RegPermissive_0	0.9794970200830464
+HAP-1	(10) initial intron	0	RegPermissive	RegPermissive_0	-0.7604973571942232
+HAP-1	(02) H3K27me3	0	RegPermissive	RegPermissive_0	0.6571117926181755
+HAP-1	(11) internal exons	0	RegPermissive	RegPermissive_0	-1.5439847325531315
+HAP-1	(04) H3K4me3	0	RegPermissive	RegPermissive_0	0.5030108884820242
+HAP-1	(16) 3' flanking (1000-10000 bp)	0	RegPermissive	RegPermissive_0	-0.21613720058800412
+HAP-1	(12) internal introns	0	RegPermissive	RegPermissive_0	-1.4791964327574283
+HAP-1	(03) H3K36me3	0	RegPermissive	RegPermissive_0	0.6964881571391289
+HAP-1	(13) terminal exon	0	RegPermissive	RegPermissive_0	-0.4747828062707098
+HAP-1	(06) H3K4me1	0	RegPermissive	RegPermissive_0	0.6405405132248285
+HAP-1	(14) terminal intron	0	RegPermissive	RegPermissive_0	-0.7990758729482382
+HAP-1	(07) 5' flanking (1000-10000 bp)	0	RegPermissive	RegPermissive_0	-0.25010001910877283
+HAP-1	(05) H3K27ac	0	RegPermissive	RegPermissive_0	0.6526223323161149
+HAP-1	(15) 3' flanking (1-1000 bp)	0	RegPermissive	RegPermissive_0	-0.4097326261751634
+HAP-1	(08) 5' flanking (1-1000 bp)	0	RegPermissive	RegPermissive_0	-0.62106754332998
+DND-41	(09) initial exon	4	RegPermissive	RegPermissive_4	0.3932829748684661
+DND-41	(01) H3K9me3	4	RegPermissive	RegPermissive_4	0.4836310979308094
+DND-41	(10) initial intron	4	RegPermissive	RegPermissive_4	1.0928912775248716
+DND-41	(02) H3K27me3	4	RegPermissive	RegPermissive_4	0.3993134415340644
+DND-41	(11) internal exons	4	RegPermissive	RegPermissive_4	-0.5408494777821183
+DND-41	(04) H3K4me3	4	RegPermissive	RegPermissive_4	0.5706227685434941
+DND-41	(16) 3' flanking (1000-10000 bp)	4	RegPermissive	RegPermissive_4	0.4079275194434918
+DND-41	(12) internal introns	4	RegPermissive	RegPermissive_4	-0.6161058119528964
+DND-41	(03) H3K36me3	4	RegPermissive	RegPermissive_4	0.5352349578572764
+DND-41	(13) terminal exon	4	RegPermissive	RegPermissive_4	0.1591066131630635
+DND-41	(06) H3K4me1	4	RegPermissive	RegPermissive_4	1.2915085595774891
+DND-41	(14) terminal intron	4	RegPermissive	RegPermissive_4	0.1592764497037292
+DND-41	(07) 5' flanking (1000-10000 bp)	4	RegPermissive	RegPermissive_4	0.7130726006792443
+DND-41	(05) H3K27ac	4	RegPermissive	RegPermissive_4	0.9342437491941338
+DND-41	(15) 3' flanking (1-1000 bp)	4	RegPermissive	RegPermissive_4	0.2573849889148543
+DND-41	(08) 5' flanking (1-1000 bp)	4	RegPermissive	RegPermissive_4	0.6865608948292675
+DND-41	(09) initial exon	8	FacultativeHet	FacultativeHet_8	0.6975145521849844
+DND-41	(01) H3K9me3	8	FacultativeHet	FacultativeHet_8	0.4496587795577028
+DND-41	(10) initial intron	8	FacultativeHet	FacultativeHet_8	0.3919824022366044
+DND-41	(02) H3K27me3	8	FacultativeHet	FacultativeHet_8	0.7897846354622249
+DND-41	(11) internal exons	8	FacultativeHet	FacultativeHet_8	0.6630889840274261
+DND-41	(04) H3K4me3	8	FacultativeHet	FacultativeHet_8	0.5272266543784881
+DND-41	(16) 3' flanking (1000-10000 bp)	8	FacultativeHet	FacultativeHet_8	0.6336157134582808
+DND-41	(12) internal introns	8	FacultativeHet	FacultativeHet_8	0.5153546810360207
+DND-41	(03) H3K36me3	8	FacultativeHet	FacultativeHet_8	0.3035410207401655
+DND-41	(13) terminal exon	8	FacultativeHet	FacultativeHet_8	0.6146578155392263
+DND-41	(06) H3K4me1	8	FacultativeHet	FacultativeHet_8	0.4550090788919256
+DND-41	(14) terminal intron	8	FacultativeHet	FacultativeHet_8	0.6038812990699416
+DND-41	(07) 5' flanking (1000-10000 bp)	8	FacultativeHet	FacultativeHet_8	0.5294885061555847
+DND-41	(05) H3K27ac	8	FacultativeHet	FacultativeHet_8	0.4985901260518105
+DND-41	(15) 3' flanking (1-1000 bp)	8	FacultativeHet	FacultativeHet_8	0.4940530658734157
+DND-41	(08) 5' flanking (1-1000 bp)	8	FacultativeHet	FacultativeHet_8	0.633005527850802
+DND-41	(09) initial exon	1	Quiescent	Quiescent_1	-0.363037652967524
+DND-41	(01) H3K9me3	1	Quiescent	Quiescent_1	0.4669299172477995
+DND-41	(10) initial intron	1	Quiescent	Quiescent_1	-0.3382132105354796
+DND-41	(02) H3K27me3	1	Quiescent	Quiescent_1	0.29774446344167865
+DND-41	(11) internal exons	1	Quiescent	Quiescent_1	-1.0438243757111416
+DND-41	(04) H3K4me3	1	Quiescent	Quiescent_1	0.40495576171216174
+DND-41	(16) 3' flanking (1000-10000 bp)	1	Quiescent	Quiescent_1	0.02031573558555152
+DND-41	(12) internal introns	1	Quiescent	Quiescent_1	-0.7733522439357337
+DND-41	(03) H3K36me3	1	Quiescent	Quiescent_1	0.21577273930270172
+DND-41	(13) terminal exon	1	Quiescent	Quiescent_1	-0.4293905180552716
+DND-41	(06) H3K4me1	1	Quiescent	Quiescent_1	0.1929441237320951
+DND-41	(14) terminal intron	1	Quiescent	Quiescent_1	-0.3886404268133878
+DND-41	(07) 5' flanking (1000-10000 bp)	1	Quiescent	Quiescent_1	-0.015758787092113532
+DND-41	(05) H3K27ac	1	Quiescent	Quiescent_1	0.2962990183060096
+DND-41	(15) 3' flanking (1-1000 bp)	1	Quiescent	Quiescent_1	-0.1758797952742562
+DND-41	(08) 5' flanking (1-1000 bp)	1	Quiescent	Quiescent_1	-0.2710818265926341
+DND-41	(09) initial exon	12	FacultativeHet	FacultativeHet_12	0.3123882006596315
+DND-41	(01) H3K9me3	12	FacultativeHet	FacultativeHet_12	0.5060215734488549
+DND-41	(10) initial intron	12	FacultativeHet	FacultativeHet_12	0.3298694892887468
+DND-41	(02) H3K27me3	12	FacultativeHet	FacultativeHet_12	1.4856363076704182
+DND-41	(11) internal exons	12	FacultativeHet	FacultativeHet_12	0.14799456333922756
+DND-41	(04) H3K4me3	12	FacultativeHet	FacultativeHet_12	0.6253779812286797
+DND-41	(16) 3' flanking (1000-10000 bp)	12	FacultativeHet	FacultativeHet_12	0.19128356355825826
+DND-41	(12) internal introns	12	FacultativeHet	FacultativeHet_12	-0.05011659107999632
+DND-41	(03) H3K36me3	12	FacultativeHet	FacultativeHet_12	0.2771399418105086
+DND-41	(13) terminal exon	12	FacultativeHet	FacultativeHet_12	0.3097238174266498
+DND-41	(06) H3K4me1	12	FacultativeHet	FacultativeHet_12	0.32315758600391603
+DND-41	(14) terminal intron	12	FacultativeHet	FacultativeHet_12	0.2149558769647842
+DND-41	(07) 5' flanking (1000-10000 bp)	12	FacultativeHet	FacultativeHet_12	0.32856258913071473
+DND-41	(05) H3K27ac	12	FacultativeHet	FacultativeHet_12	0.4745759147305424
+DND-41	(15) 3' flanking (1-1000 bp)	12	FacultativeHet	FacultativeHet_12	0.16237166978359113
+DND-41	(08) 5' flanking (1-1000 bp)	12	FacultativeHet	FacultativeHet_12	0.2274145229333281
+DND-41	(09) initial exon	10	FacultativeHet	FacultativeHet_10	-0.7448577197720369
+DND-41	(01) H3K9me3	10	FacultativeHet	FacultativeHet_10	0.7202354444020915
+DND-41	(10) initial intron	10	FacultativeHet	FacultativeHet_10	-0.7814507598870775
+DND-41	(02) H3K27me3	10	FacultativeHet	FacultativeHet_10	1.025483867459525
+DND-41	(11) internal exons	10	FacultativeHet	FacultativeHet_10	-0.8427967840646039
+DND-41	(04) H3K4me3	10	FacultativeHet	FacultativeHet_10	0.8415073664869466
+DND-41	(16) 3' flanking (1000-10000 bp)	10	FacultativeHet	FacultativeHet_10	-0.3971471894621185
+DND-41	(12) internal introns	10	FacultativeHet	FacultativeHet_10	-0.959528148479223
+DND-41	(03) H3K36me3	10	FacultativeHet	FacultativeHet_10	0.2659644216919533
+DND-41	(13) terminal exon	10	FacultativeHet	FacultativeHet_10	-0.456080998750061
+DND-41	(06) H3K4me1	10	FacultativeHet	FacultativeHet_10	0.2616711561577197
+DND-41	(14) terminal intron	10	FacultativeHet	FacultativeHet_10	-0.7462416133672243
+DND-41	(07) 5' flanking (1000-10000 bp)	10	FacultativeHet	FacultativeHet_10	-0.3631977019127328
+DND-41	(05) H3K27ac	10	FacultativeHet	FacultativeHet_10	0.3990802294100855
+DND-41	(15) 3' flanking (1-1000 bp)	10	FacultativeHet	FacultativeHet_10	-0.4583375842598689
+DND-41	(08) 5' flanking (1-1000 bp)	10	FacultativeHet	FacultativeHet_10	-0.6768864508515984
+DND-41	(09) initial exon	5	Quiescent	Quiescent_5	-1.4621014900803082
+DND-41	(01) H3K9me3	5	Quiescent	Quiescent_5	0.6906779422608741
+DND-41	(10) initial intron	5	Quiescent	Quiescent_5	-1.3958564264566815
+DND-41	(02) H3K27me3	5	Quiescent	Quiescent_5	0.448714786618182
+DND-41	(11) internal exons	5	Quiescent	Quiescent_5	-1.6960329564504084
+DND-41	(04) H3K4me3	5	Quiescent	Quiescent_5	0.8414262925053113
+DND-41	(16) 3' flanking (1000-10000 bp)	5	Quiescent	Quiescent_5	-0.8324944541917269
+DND-41	(12) internal introns	5	Quiescent	Quiescent_5	-1.692044638312295
+DND-41	(03) H3K36me3	5	Quiescent	Quiescent_5	0.2342171709120477
+DND-41	(13) terminal exon	5	Quiescent	Quiescent_5	-1.0968514044883926
+DND-41	(06) H3K4me1	5	Quiescent	Quiescent_5	0.223361575474822
+DND-41	(14) terminal intron	5	Quiescent	Quiescent_5	-1.3348146934239753
+DND-41	(07) 5' flanking (1000-10000 bp)	5	Quiescent	Quiescent_5	-0.8913159799076917
+DND-41	(05) H3K27ac	5	Quiescent	Quiescent_5	0.33354242917993804
+DND-41	(15) 3' flanking (1-1000 bp)	5	Quiescent	Quiescent_5	-0.8684084464908254
+DND-41	(08) 5' flanking (1-1000 bp)	5	Quiescent	Quiescent_5	-1.1842920972920057
+DND-41	(09) initial exon	3	FacultativeHet	FacultativeHet_3	-0.0790637231603005
+DND-41	(01) H3K9me3	3	FacultativeHet	FacultativeHet_3	0.4065886683850187
+DND-41	(10) initial intron	3	FacultativeHet	FacultativeHet_3	0.049091650345468994
+DND-41	(02) H3K27me3	3	FacultativeHet	FacultativeHet_3	0.8444130010762587
+DND-41	(11) internal exons	3	FacultativeHet	FacultativeHet_3	-0.16609678364403127
+DND-41	(04) H3K4me3	3	FacultativeHet	FacultativeHet_3	0.4684887284147538
+DND-41	(16) 3' flanking (1000-10000 bp)	3	FacultativeHet	FacultativeHet_3	0.1586821549331564
+DND-41	(12) internal introns	3	FacultativeHet	FacultativeHet_3	-0.15014623137618238
+DND-41	(03) H3K36me3	3	FacultativeHet	FacultativeHet_3	0.20773444419437734
+DND-41	(13) terminal exon	3	FacultativeHet	FacultativeHet_3	0.05585249207216743
+DND-41	(06) H3K4me1	3	FacultativeHet	FacultativeHet_3	0.2308916559274305
+DND-41	(14) terminal intron	3	FacultativeHet	FacultativeHet_3	0.04236183189484501
+DND-41	(07) 5' flanking (1000-10000 bp)	3	FacultativeHet	FacultativeHet_3	0.2260390923054298
+DND-41	(05) H3K27ac	3	FacultativeHet	FacultativeHet_3	0.3586183895398637
+DND-41	(15) 3' flanking (1-1000 bp)	3	FacultativeHet	FacultativeHet_3	0.09326976158160327
+DND-41	(08) 5' flanking (1-1000 bp)	3	FacultativeHet	FacultativeHet_3	-0.0253169500831269
+DND-41	(09) initial exon	9	Quiescent	Quiescent_9	-0.2104120742915904
+DND-41	(01) H3K9me3	9	Quiescent	Quiescent_9	1.412709827663309
+DND-41	(10) initial intron	9	Quiescent	Quiescent_9	-0.8386124197503649
+DND-41	(02) H3K27me3	9	Quiescent	Quiescent_9	0.4250248907263515
+DND-41	(11) internal exons	9	Quiescent	Quiescent_9	-1.9304121073594869
+DND-41	(04) H3K4me3	9	Quiescent	Quiescent_9	0.6538174341380372
+DND-41	(16) 3' flanking (1000-10000 bp)	9	Quiescent	Quiescent_9	-0.4156639020337847
+DND-41	(12) internal introns	9	Quiescent	Quiescent_9	-1.978565981025869
+DND-41	(03) H3K36me3	9	Quiescent	Quiescent_9	0.4571261755096069
+DND-41	(13) terminal exon	9	Quiescent	Quiescent_9	-0.35502376315802464
+DND-41	(06) H3K4me1	9	Quiescent	Quiescent_9	0.2735476168109898
+DND-41	(14) terminal intron	9	Quiescent	Quiescent_9	-0.9936435141413004
+DND-41	(07) 5' flanking (1000-10000 bp)	9	Quiescent	Quiescent_9	-0.4975595671262401
+DND-41	(05) H3K27ac	9	Quiescent	Quiescent_9	0.4329365395359107
+DND-41	(15) 3' flanking (1-1000 bp)	9	Quiescent	Quiescent_9	-0.6027940742900326
+DND-41	(08) 5' flanking (1-1000 bp)	9	Quiescent	Quiescent_9	-0.3927161835431771
+DND-41	(09) initial exon	11	Transcribed	Transcribed_11	0.4009852500469928
+DND-41	(01) H3K9me3	11	Transcribed	Transcribed_11	0.4704973928497066
+DND-41	(10) initial intron	11	Transcribed	Transcribed_11	0.9407591700916198
+DND-41	(02) H3K27me3	11	Transcribed	Transcribed_11	0.26395626822291
+DND-41	(11) internal exons	11	Transcribed	Transcribed_11	2.6140557648253075
+DND-41	(04) H3K4me3	11	Transcribed	Transcribed_11	0.6063158499719272
+DND-41	(16) 3' flanking (1000-10000 bp)	11	Transcribed	Transcribed_11	1.0626761607283826
+DND-41	(12) internal introns	11	Transcribed	Transcribed_11	2.468465260703885
+DND-41	(03) H3K36me3	11	Transcribed	Transcribed_11	2.2581798988776116
+DND-41	(13) terminal exon	11	Transcribed	Transcribed_11	1.6423986120035738
+DND-41	(06) H3K4me1	11	Transcribed	Transcribed_11	1.2395197717825857
+DND-41	(14) terminal intron	11	Transcribed	Transcribed_11	1.8767849392258549
+DND-41	(07) 5' flanking (1000-10000 bp)	11	Transcribed	Transcribed_11	1.211202889278152
+DND-41	(05) H3K27ac	11	Transcribed	Transcribed_11	1.1177898483945568
+DND-41	(15) 3' flanking (1-1000 bp)	11	Transcribed	Transcribed_11	1.2903827415697733
+DND-41	(08) 5' flanking (1-1000 bp)	11	Transcribed	Transcribed_11	0.21605735286355088
+DND-41	(09) initial exon	2	RegPermissive	RegPermissive_2	2.040097837174776
+DND-41	(01) H3K9me3	2	RegPermissive	RegPermissive_2	0.3628552469559808
+DND-41	(10) initial intron	2	RegPermissive	RegPermissive_2	1.4623057469284129
+DND-41	(02) H3K27me3	2	RegPermissive	RegPermissive_2	0.6060931009877545
+DND-41	(11) internal exons	2	RegPermissive	RegPermissive_2	1.2759189499886363
+DND-41	(04) H3K4me3	2	RegPermissive	RegPermissive_2	0.5676968459914131
+DND-41	(16) 3' flanking (1000-10000 bp)	2	RegPermissive	RegPermissive_2	1.254325939665287
+DND-41	(12) internal introns	2	RegPermissive	RegPermissive_2	1.175623437418989
+DND-41	(03) H3K36me3	2	RegPermissive	RegPermissive_2	0.6362770183615303
+DND-41	(13) terminal exon	2	RegPermissive	RegPermissive_2	1.4869905984015268
+DND-41	(06) H3K4me1	2	RegPermissive	RegPermissive_2	1.6872491176850408
+DND-41	(14) terminal intron	2	RegPermissive	RegPermissive_2	1.5640236609025144
+DND-41	(07) 5' flanking (1000-10000 bp)	2	RegPermissive	RegPermissive_2	1.1802841572712346
+DND-41	(05) H3K27ac	2	RegPermissive	RegPermissive_2	1.0647347664823237
+DND-41	(15) 3' flanking (1-1000 bp)	2	RegPermissive	RegPermissive_2	1.5109460927445315
+DND-41	(08) 5' flanking (1-1000 bp)	2	RegPermissive	RegPermissive_2	1.9555272726721689
+DND-41	(09) initial exon	7	RegPermissive	RegPermissive_7	5.1446784608990495
+DND-41	(01) H3K9me3	7	RegPermissive	RegPermissive_7	0.42685597114865975
+DND-41	(10) initial intron	7	RegPermissive	RegPermissive_7	4.1885966142528455
+DND-41	(02) H3K27me3	7	RegPermissive	RegPermissive_7	0.4138018791310894
+DND-41	(11) internal exons	7	RegPermissive	RegPermissive_7	1.3319452712055126
+DND-41	(04) H3K4me3	7	RegPermissive	RegPermissive_7	2.677709955372916
+DND-41	(16) 3' flanking (1000-10000 bp)	7	RegPermissive	RegPermissive_7	1.4053517952288592
+DND-41	(12) internal introns	7	RegPermissive	RegPermissive_7	0.20459343503748564
+DND-41	(03) H3K36me3	7	RegPermissive	RegPermissive_7	0.9604519631933592
+DND-41	(13) terminal exon	7	RegPermissive	RegPermissive_7	1.7005279248435266
+DND-41	(06) H3K4me1	7	RegPermissive	RegPermissive_7	1.2623554538941657
+DND-41	(14) terminal intron	7	RegPermissive	RegPermissive_7	1.513599644341029
+DND-41	(07) 5' flanking (1000-10000 bp)	7	RegPermissive	RegPermissive_7	1.2580101086000812
+DND-41	(05) H3K27ac	7	RegPermissive	RegPermissive_7	2.7160212387003093
+DND-41	(15) 3' flanking (1-1000 bp)	7	RegPermissive	RegPermissive_7	1.41790437676753
+DND-41	(08) 5' flanking (1-1000 bp)	7	RegPermissive	RegPermissive_7	4.416443927757912
+DND-41	(09) initial exon	14	Quiescent	Quiescent_14	-0.7752006868496983
+DND-41	(01) H3K9me3	14	Quiescent	Quiescent_14	0.04832138437806606
+DND-41	(10) initial intron	14	Quiescent	Quiescent_14	-0.7857423650731902
+DND-41	(02) H3K27me3	14	Quiescent	Quiescent_14	0.028153883412782663
+DND-41	(11) internal exons	14	Quiescent	Quiescent_14	-1.4155820472950886
+DND-41	(04) H3K4me3	14	Quiescent	Quiescent_14	0.033482335918805006
+DND-41	(16) 3' flanking (1000-10000 bp)	14	Quiescent	Quiescent_14	-0.6231025802865
+DND-41	(12) internal introns	14	Quiescent	Quiescent_14	-1.2734248997617776
+DND-41	(03) H3K36me3	14	Quiescent	Quiescent_14	0.02106357448411069
+DND-41	(13) terminal exon	14	Quiescent	Quiescent_14	-0.9046502724760372
+DND-41	(06) H3K4me1	14	Quiescent	Quiescent_14	0.015076677460338209
+DND-41	(14) terminal intron	14	Quiescent	Quiescent_14	-0.8094405936273409
+DND-41	(07) 5' flanking (1000-10000 bp)	14	Quiescent	Quiescent_14	-0.6449998975581186
+DND-41	(05) H3K27ac	14	Quiescent	Quiescent_14	0.02092007679814441
+DND-41	(15) 3' flanking (1-1000 bp)	14	Quiescent	Quiescent_14	-0.7518848440894983
+DND-41	(08) 5' flanking (1-1000 bp)	14	Quiescent	Quiescent_14	-0.7730025716027674
+DND-41	(09) initial exon	13	RegPermissive	RegPermissive_13	1.3735911026330043
+DND-41	(01) H3K9me3	13	RegPermissive	RegPermissive_13	0.4515367341087014
+DND-41	(10) initial intron	13	RegPermissive	RegPermissive_13	2.203678776913748
+DND-41	(02) H3K27me3	13	RegPermissive	RegPermissive_13	0.3672645523291021
+DND-41	(11) internal exons	13	RegPermissive	RegPermissive_13	0.5915171415236602
+DND-41	(04) H3K4me3	13	RegPermissive	RegPermissive_13	0.8380406494863594
+DND-41	(16) 3' flanking (1000-10000 bp)	13	RegPermissive	RegPermissive_13	0.8401982573763762
+DND-41	(12) internal introns	13	RegPermissive	RegPermissive_13	0.30247913868253223
+DND-41	(03) H3K36me3	13	RegPermissive	RegPermissive_13	0.7733027312020102
+DND-41	(13) terminal exon	13	RegPermissive	RegPermissive_13	0.9583226219864184
+DND-41	(06) H3K4me1	13	RegPermissive	RegPermissive_13	2.895724156787054
+DND-41	(14) terminal intron	13	RegPermissive	RegPermissive_13	0.9877453818799328
+DND-41	(07) 5' flanking (1000-10000 bp)	13	RegPermissive	RegPermissive_13	0.9981532832857996
+DND-41	(05) H3K27ac	13	RegPermissive	RegPermissive_13	2.032184045671111
+DND-41	(15) 3' flanking (1-1000 bp)	13	RegPermissive	RegPermissive_13	0.9150071720389006
+DND-41	(08) 5' flanking (1-1000 bp)	13	RegPermissive	RegPermissive_13	2.267306822179794
+DND-41	(09) initial exon	6	Transcribed	Transcribed_6	-0.2954633486913371
+DND-41	(01) H3K9me3	6	Transcribed	Transcribed_6	0.4495172682404485
+DND-41	(10) initial intron	6	Transcribed	Transcribed_6	0.018012033720706876
+DND-41	(02) H3K27me3	6	Transcribed	Transcribed_6	0.25746495655233664
+DND-41	(11) internal exons	6	Transcribed	Transcribed_6	0.5810428264644518
+DND-41	(04) H3K4me3	6	Transcribed	Transcribed_6	0.5724451983163373
+DND-41	(16) 3' flanking (1000-10000 bp)	6	Transcribed	Transcribed_6	0.4409116462797597
+DND-41	(12) internal introns	6	Transcribed	Transcribed_6	0.872432517513018
+DND-41	(03) H3K36me3	6	Transcribed	Transcribed_6	1.0376864393654852
+DND-41	(13) terminal exon	6	Transcribed	Transcribed_6	0.5190999896134306
+DND-41	(06) H3K4me1	6	Transcribed	Transcribed_6	0.38083738388023575
+DND-41	(14) terminal intron	6	Transcribed	Transcribed_6	0.4963155939908484
+DND-41	(07) 5' flanking (1000-10000 bp)	6	Transcribed	Transcribed_6	0.13996707832108926
+DND-41	(05) H3K27ac	6	Transcribed	Transcribed_6	0.6251332457444576
+DND-41	(15) 3' flanking (1-1000 bp)	6	Transcribed	Transcribed_6	0.6524339304050972
+DND-41	(08) 5' flanking (1-1000 bp)	6	Transcribed	Transcribed_6	-0.3312747106319417
+DND-41	(09) initial exon	0	Transcribed	Transcribed_0	-0.0941238856880796
+DND-41	(01) H3K9me3	0	Transcribed	Transcribed_0	0.4959779195518386
+DND-41	(10) initial intron	0	Transcribed	Transcribed_0	-0.5781943395359449
+DND-41	(02) H3K27me3	0	Transcribed	Transcribed_0	0.2496404179302693
+DND-41	(11) internal exons	0	Transcribed	Transcribed_0	2.4464996278644007
+DND-41	(04) H3K4me3	0	Transcribed	Transcribed_0	0.6045617124581989
+DND-41	(16) 3' flanking (1000-10000 bp)	0	Transcribed	Transcribed_0	0.5881575312645619
+DND-41	(12) internal introns	0	Transcribed	Transcribed_0	2.4054542825459433
+DND-41	(03) H3K36me3	0	Transcribed	Transcribed_0	2.037365608309066
+DND-41	(13) terminal exon	0	Transcribed	Transcribed_0	1.36491152346371
+DND-41	(06) H3K4me1	0	Transcribed	Transcribed_0	0.3740692426199956
+DND-41	(14) terminal intron	0	Transcribed	Transcribed_0	1.7173494069307358
+DND-41	(07) 5' flanking (1000-10000 bp)	0	Transcribed	Transcribed_0	0.3066873705124357
+DND-41	(05) H3K27ac	0	Transcribed	Transcribed_0	0.6817417619935627
+DND-41	(15) 3' flanking (1-1000 bp)	0	Transcribed	Transcribed_0	1.0713387091337454
+DND-41	(08) 5' flanking (1-1000 bp)	0	Transcribed	Transcribed_0	-0.17823543107782974
+adrenal_gland_embryonic	(09) initial exon	4	Transcribed	Transcribed_4	0.387456348322027
+adrenal_gland_embryonic	(01) H3K9me3	4	Transcribed	Transcribed_4	0.31094932134560144
+adrenal_gland_embryonic	(10) initial intron	4	Transcribed	Transcribed_4	1.1162741366045663
+adrenal_gland_embryonic	(02) H3K27me3	4	Transcribed	Transcribed_4	0.373991184863142
+adrenal_gland_embryonic	(11) internal exons	4	Transcribed	Transcribed_4	2.0703206178081155
+adrenal_gland_embryonic	(04) H3K4me3	4	Transcribed	Transcribed_4	0.5978401169900142
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	4	Transcribed	Transcribed_4	0.9783883067986358
+adrenal_gland_embryonic	(12) internal introns	4	Transcribed	Transcribed_4	1.9935274303275332
+adrenal_gland_embryonic	(03) H3K36me3	4	Transcribed	Transcribed_4	1.8874891310990811
+adrenal_gland_embryonic	(13) terminal exon	4	Transcribed	Transcribed_4	1.5964142457393082
+adrenal_gland_embryonic	(06) H3K4me1	4	Transcribed	Transcribed_4	1.7753051382001293
+adrenal_gland_embryonic	(14) terminal intron	4	Transcribed	Transcribed_4	1.7900971498677265
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	4	Transcribed	Transcribed_4	0.8965988553271399
+adrenal_gland_embryonic	(05) H3K27ac	4	Transcribed	Transcribed_4	1.4163661492071882
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	4	Transcribed	Transcribed_4	1.4025864186210983
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	4	Transcribed	Transcribed_4	0.4317407437906959
+adrenal_gland_embryonic	(09) initial exon	8	FacultativeHet	FacultativeHet_8	1.0110140775400147
+adrenal_gland_embryonic	(01) H3K9me3	8	FacultativeHet	FacultativeHet_8	0.7314533427590276
+adrenal_gland_embryonic	(10) initial intron	8	FacultativeHet	FacultativeHet_8	1.0184295393711955
+adrenal_gland_embryonic	(02) H3K27me3	8	FacultativeHet	FacultativeHet_8	2.257601250620109
+adrenal_gland_embryonic	(11) internal exons	8	FacultativeHet	FacultativeHet_8	1.117037474365388
+adrenal_gland_embryonic	(04) H3K4me3	8	FacultativeHet	FacultativeHet_8	0.5713413190707403
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	8	FacultativeHet	FacultativeHet_8	0.6299691148046973
+adrenal_gland_embryonic	(12) internal introns	8	FacultativeHet	FacultativeHet_8	0.8522216193783401
+adrenal_gland_embryonic	(03) H3K36me3	8	FacultativeHet	FacultativeHet_8	0.4150847808317372
+adrenal_gland_embryonic	(13) terminal exon	8	FacultativeHet	FacultativeHet_8	0.959633856766379
+adrenal_gland_embryonic	(06) H3K4me1	8	FacultativeHet	FacultativeHet_8	0.657888723646411
+adrenal_gland_embryonic	(14) terminal intron	8	FacultativeHet	FacultativeHet_8	1.0271178814596014
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	8	FacultativeHet	FacultativeHet_8	0.5963577151570664
+adrenal_gland_embryonic	(05) H3K27ac	8	FacultativeHet	FacultativeHet_8	0.3597410278401013
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	8	FacultativeHet	FacultativeHet_8	0.6252020899102574
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	8	FacultativeHet	FacultativeHet_8	0.816622752212909
+adrenal_gland_embryonic	(09) initial exon	1	Quiescent	Quiescent_1	-1.354537454695617
+adrenal_gland_embryonic	(01) H3K9me3	1	Quiescent	Quiescent_1	0.11337504290714087
+adrenal_gland_embryonic	(10) initial intron	1	Quiescent	Quiescent_1	-1.0751542670430867
+adrenal_gland_embryonic	(02) H3K27me3	1	Quiescent	Quiescent_1	0.042667104192977034
+adrenal_gland_embryonic	(11) internal exons	1	Quiescent	Quiescent_1	-1.3874842952195336
+adrenal_gland_embryonic	(04) H3K4me3	1	Quiescent	Quiescent_1	0.06777418698995401
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	1	Quiescent	Quiescent_1	-0.6726930372088991
+adrenal_gland_embryonic	(12) internal introns	1	Quiescent	Quiescent_1	-1.2327351297058535
+adrenal_gland_embryonic	(03) H3K36me3	1	Quiescent	Quiescent_1	0.034402527832104395
+adrenal_gland_embryonic	(13) terminal exon	1	Quiescent	Quiescent_1	-1.0393107781082969
+adrenal_gland_embryonic	(06) H3K4me1	1	Quiescent	Quiescent_1	0.040366060526721814
+adrenal_gland_embryonic	(14) terminal intron	1	Quiescent	Quiescent_1	-0.9955922741628866
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	1	Quiescent	Quiescent_1	-0.6687673200020051
+adrenal_gland_embryonic	(05) H3K27ac	1	Quiescent	Quiescent_1	0.0606442056357513
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	1	Quiescent	Quiescent_1	-0.7469701948028358
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	1	Quiescent	Quiescent_1	-1.0716601299650892
+adrenal_gland_embryonic	(09) initial exon	12	LowConfidence	LowConfidence_12	-0.08404829867751397
+adrenal_gland_embryonic	(01) H3K9me3	12	LowConfidence	LowConfidence_12	1.3548241902750633
+adrenal_gland_embryonic	(10) initial intron	12	LowConfidence	LowConfidence_12	-0.09831417553601242
+adrenal_gland_embryonic	(02) H3K27me3	12	LowConfidence	LowConfidence_12	0.3800691274014185
+adrenal_gland_embryonic	(11) internal exons	12	LowConfidence	LowConfidence_12	-0.011223632033660644
+adrenal_gland_embryonic	(04) H3K4me3	12	LowConfidence	LowConfidence_12	0.4575772204855253
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	12	LowConfidence	LowConfidence_12	0.40551208067034294
+adrenal_gland_embryonic	(12) internal introns	12	LowConfidence	LowConfidence_12	0.318707608375974
+adrenal_gland_embryonic	(03) H3K36me3	12	LowConfidence	LowConfidence_12	1.1967541345715824
+adrenal_gland_embryonic	(13) terminal exon	12	LowConfidence	LowConfidence_12	0.4555803953554806
+adrenal_gland_embryonic	(06) H3K4me1	12	LowConfidence	LowConfidence_12	0.3129027112399481
+adrenal_gland_embryonic	(14) terminal intron	12	LowConfidence	LowConfidence_12	0.3723450933708806
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	12	LowConfidence	LowConfidence_12	0.12467810475560635
+adrenal_gland_embryonic	(05) H3K27ac	12	LowConfidence	LowConfidence_12	0.31079222288825925
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	12	LowConfidence	LowConfidence_12	0.4163692889063406
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	12	LowConfidence	LowConfidence_12	-0.24849437411290726
+adrenal_gland_embryonic	(09) initial exon	10	Enhancer	Enhancer_10	0.6392593355607574
+adrenal_gland_embryonic	(01) H3K9me3	10	Enhancer	Enhancer_10	0.28300807143527873
+adrenal_gland_embryonic	(10) initial intron	10	Enhancer	Enhancer_10	1.1029203109427386
+adrenal_gland_embryonic	(02) H3K27me3	10	Enhancer	Enhancer_10	0.3341488701792166
+adrenal_gland_embryonic	(11) internal exons	10	Enhancer	Enhancer_10	0.3307279862020156
+adrenal_gland_embryonic	(04) H3K4me3	10	Enhancer	Enhancer_10	0.8002302091325552
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	10	Enhancer	Enhancer_10	0.6376524790241104
+adrenal_gland_embryonic	(12) internal introns	10	Enhancer	Enhancer_10	0.2449123484593509
+adrenal_gland_embryonic	(03) H3K36me3	10	Enhancer	Enhancer_10	0.7126871787748736
+adrenal_gland_embryonic	(13) terminal exon	10	Enhancer	Enhancer_10	0.7339188222548739
+adrenal_gland_embryonic	(06) H3K4me1	10	Enhancer	Enhancer_10	2.517286287776828
+adrenal_gland_embryonic	(14) terminal intron	10	Enhancer	Enhancer_10	0.6692961756764931
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	10	Enhancer	Enhancer_10	0.6330217866295383
+adrenal_gland_embryonic	(05) H3K27ac	10	Enhancer	Enhancer_10	2.767516110539032
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	10	Enhancer	Enhancer_10	0.728053087639398
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	10	Enhancer	Enhancer_10	1.0862952547862896
+adrenal_gland_embryonic	(09) initial exon	5	Quiescent	Quiescent_5	-1.4386392941972614
+adrenal_gland_embryonic	(01) H3K9me3	5	Quiescent	Quiescent_5	0.911681361172626
+adrenal_gland_embryonic	(10) initial intron	5	Quiescent	Quiescent_5	-1.3682642769389022
+adrenal_gland_embryonic	(02) H3K27me3	5	Quiescent	Quiescent_5	0.1670863380460318
+adrenal_gland_embryonic	(11) internal exons	5	Quiescent	Quiescent_5	-2.618125369796462
+adrenal_gland_embryonic	(04) H3K4me3	5	Quiescent	Quiescent_5	0.3264297188920357
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	5	Quiescent	Quiescent_5	-0.5365529422784985
+adrenal_gland_embryonic	(12) internal introns	5	Quiescent	Quiescent_5	-2.186092933244934
+adrenal_gland_embryonic	(03) H3K36me3	5	Quiescent	Quiescent_5	0.13965887790575066
+adrenal_gland_embryonic	(13) terminal exon	5	Quiescent	Quiescent_5	-1.2146549883085758
+adrenal_gland_embryonic	(06) H3K4me1	5	Quiescent	Quiescent_5	0.1493088610568751
+adrenal_gland_embryonic	(14) terminal intron	5	Quiescent	Quiescent_5	-1.4292338344969482
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	5	Quiescent	Quiescent_5	-0.6002079890792978
+adrenal_gland_embryonic	(05) H3K27ac	5	Quiescent	Quiescent_5	0.20762217662703814
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	5	Quiescent	Quiescent_5	-0.8227347887214366
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	5	Quiescent	Quiescent_5	-1.0719406140245755
+adrenal_gland_embryonic	(09) initial exon	3	Transcribed	Transcribed_3	0.13615026736751834
+adrenal_gland_embryonic	(01) H3K9me3	3	Transcribed	Transcribed_3	0.3478913499386033
+adrenal_gland_embryonic	(10) initial intron	3	Transcribed	Transcribed_3	-0.1965725305105009
+adrenal_gland_embryonic	(02) H3K27me3	3	Transcribed	Transcribed_3	0.334379209974454
+adrenal_gland_embryonic	(11) internal exons	3	Transcribed	Transcribed_3	2.7436567734470585
+adrenal_gland_embryonic	(04) H3K4me3	3	Transcribed	Transcribed_3	0.4711374282561372
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	3	Transcribed	Transcribed_3	0.8774924485313969
+adrenal_gland_embryonic	(12) internal introns	3	Transcribed	Transcribed_3	2.693898630437838
+adrenal_gland_embryonic	(03) H3K36me3	3	Transcribed	Transcribed_3	2.328635199071446
+adrenal_gland_embryonic	(13) terminal exon	3	Transcribed	Transcribed_3	1.5812957337591456
+adrenal_gland_embryonic	(06) H3K4me1	3	Transcribed	Transcribed_3	0.4281556755731705
+adrenal_gland_embryonic	(14) terminal intron	3	Transcribed	Transcribed_3	2.00628880298501
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	3	Transcribed	Transcribed_3	0.6874529909111062
+adrenal_gland_embryonic	(05) H3K27ac	3	Transcribed	Transcribed_3	0.4218903434770791
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	3	Transcribed	Transcribed_3	1.2612504120623602
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	3	Transcribed	Transcribed_3	-0.0428830019596874
+adrenal_gland_embryonic	(09) initial exon	9	FacultativeHet	FacultativeHet_9	0.047049664199727205
+adrenal_gland_embryonic	(01) H3K9me3	9	FacultativeHet	FacultativeHet_9	0.5362684632210074
+adrenal_gland_embryonic	(10) initial intron	9	FacultativeHet	FacultativeHet_9	0.03671890151950353
+adrenal_gland_embryonic	(02) H3K27me3	9	FacultativeHet	FacultativeHet_9	1.0432317917094016
+adrenal_gland_embryonic	(11) internal exons	9	FacultativeHet	FacultativeHet_9	-0.59014716693002
+adrenal_gland_embryonic	(04) H3K4me3	9	FacultativeHet	FacultativeHet_9	0.4811834617260018
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	9	FacultativeHet	FacultativeHet_9	0.22618771059663276
+adrenal_gland_embryonic	(12) internal introns	9	FacultativeHet	FacultativeHet_9	-0.5630500968079919
+adrenal_gland_embryonic	(03) H3K36me3	9	FacultativeHet	FacultativeHet_9	0.2684434322622203
+adrenal_gland_embryonic	(13) terminal exon	9	FacultativeHet	FacultativeHet_9	0.17641555241760884
+adrenal_gland_embryonic	(06) H3K4me1	9	FacultativeHet	FacultativeHet_9	0.308265576557234
+adrenal_gland_embryonic	(14) terminal intron	9	FacultativeHet	FacultativeHet_9	0.012344099326570995
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	9	FacultativeHet	FacultativeHet_9	0.3112361770991581
+adrenal_gland_embryonic	(05) H3K27ac	9	FacultativeHet	FacultativeHet_9	0.25877292860570145
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	9	FacultativeHet	FacultativeHet_9	0.0970006491135696
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	9	FacultativeHet	FacultativeHet_9	-0.001837497528451218
+adrenal_gland_embryonic	(09) initial exon	11	Promoter	Promoter_11	5.050564808367468
+adrenal_gland_embryonic	(01) H3K9me3	11	Promoter	Promoter_11	0.3666518968543657
+adrenal_gland_embryonic	(10) initial intron	11	Promoter	Promoter_11	3.8560797740282147
+adrenal_gland_embryonic	(02) H3K27me3	11	Promoter	Promoter_11	0.5553335150991057
+adrenal_gland_embryonic	(11) internal exons	11	Promoter	Promoter_11	1.1720488183712776
+adrenal_gland_embryonic	(04) H3K4me3	11	Promoter	Promoter_11	3.8268896963265533
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	11	Promoter	Promoter_11	1.338933284276248
+adrenal_gland_embryonic	(12) internal introns	11	Promoter	Promoter_11	0.16981617676896474
+adrenal_gland_embryonic	(03) H3K36me3	11	Promoter	Promoter_11	0.2845188499131338
+adrenal_gland_embryonic	(13) terminal exon	11	Promoter	Promoter_11	1.810141053373176
+adrenal_gland_embryonic	(06) H3K4me1	11	Promoter	Promoter_11	1.3086687086419646
+adrenal_gland_embryonic	(14) terminal intron	11	Promoter	Promoter_11	1.5436004140472022
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	11	Promoter	Promoter_11	1.1782028947824668
+adrenal_gland_embryonic	(05) H3K27ac	11	Promoter	Promoter_11	2.815900392364714
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	11	Promoter	Promoter_11	1.493190635349735
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	11	Promoter	Promoter_11	4.347811815476105
+adrenal_gland_embryonic	(09) initial exon	2	RegPermissive	RegPermissive_2	0.2785671135179338
+adrenal_gland_embryonic	(01) H3K9me3	2	RegPermissive	RegPermissive_2	0.3202362401101605
+adrenal_gland_embryonic	(10) initial intron	2	RegPermissive	RegPermissive_2	1.1519528490070892
+adrenal_gland_embryonic	(02) H3K27me3	2	RegPermissive	RegPermissive_2	0.36795948753527496
+adrenal_gland_embryonic	(11) internal exons	2	RegPermissive	RegPermissive_2	-0.3874076332785552
+adrenal_gland_embryonic	(04) H3K4me3	2	RegPermissive	RegPermissive_2	0.5940901851348949
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	2	RegPermissive	RegPermissive_2	0.36844961236529467
+adrenal_gland_embryonic	(12) internal introns	2	RegPermissive	RegPermissive_2	-0.4988234999201181
+adrenal_gland_embryonic	(03) H3K36me3	2	RegPermissive	RegPermissive_2	0.44823257881806017
+adrenal_gland_embryonic	(13) terminal exon	2	RegPermissive	RegPermissive_2	0.21099331368962887
+adrenal_gland_embryonic	(06) H3K4me1	2	RegPermissive	RegPermissive_2	1.7824739661963185
+adrenal_gland_embryonic	(14) terminal intron	2	RegPermissive	RegPermissive_2	0.14630163602165547
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	2	RegPermissive	RegPermissive_2	0.5226227351499475
+adrenal_gland_embryonic	(05) H3K27ac	2	RegPermissive	RegPermissive_2	1.5691559653573477
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	2	RegPermissive	RegPermissive_2	0.2922769823814218
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	2	RegPermissive	RegPermissive_2	0.9716598303293654
+adrenal_gland_embryonic	(09) initial exon	7	Quiescent	Quiescent_7	-0.8433537907832591
+adrenal_gland_embryonic	(01) H3K9me3	7	Quiescent	Quiescent_7	0.2871691869030297
+adrenal_gland_embryonic	(10) initial intron	7	Quiescent	Quiescent_7	-0.6842172320107066
+adrenal_gland_embryonic	(02) H3K27me3	7	Quiescent	Quiescent_7	0.1995818234018492
+adrenal_gland_embryonic	(11) internal exons	7	Quiescent	Quiescent_7	-1.1053310051525371
+adrenal_gland_embryonic	(04) H3K4me3	7	Quiescent	Quiescent_7	0.39846655525435865
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	7	Quiescent	Quiescent_7	-0.3025193038118656
+adrenal_gland_embryonic	(12) internal introns	7	Quiescent	Quiescent_7	-1.0452000722586634
+adrenal_gland_embryonic	(03) H3K36me3	7	Quiescent	Quiescent_7	0.19160813090660125
+adrenal_gland_embryonic	(13) terminal exon	7	Quiescent	Quiescent_7	-0.5092222557342643
+adrenal_gland_embryonic	(06) H3K4me1	7	Quiescent	Quiescent_7	0.24130307599928635
+adrenal_gland_embryonic	(14) terminal intron	7	Quiescent	Quiescent_7	-0.7392561111544745
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	7	Quiescent	Quiescent_7	-0.21757682772489076
+adrenal_gland_embryonic	(05) H3K27ac	7	Quiescent	Quiescent_7	0.2780386260274351
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	7	Quiescent	Quiescent_7	-0.33160351035337965
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	7	Quiescent	Quiescent_7	-0.6707797950683312
+adrenal_gland_embryonic	(09) initial exon	14	Quiescent	Quiescent_14	-0.7957840336951313
+adrenal_gland_embryonic	(01) H3K9me3	14	Quiescent	Quiescent_14	1.847773550866696
+adrenal_gland_embryonic	(10) initial intron	14	Quiescent	Quiescent_14	-0.989814354813537
+adrenal_gland_embryonic	(02) H3K27me3	14	Quiescent	Quiescent_14	0.29834620463680983
+adrenal_gland_embryonic	(11) internal exons	14	Quiescent	Quiescent_14	-2.9789591489403118
+adrenal_gland_embryonic	(04) H3K4me3	14	Quiescent	Quiescent_14	0.4002371924542511
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	14	Quiescent	Quiescent_14	-0.15310878859448465
+adrenal_gland_embryonic	(12) internal introns	14	Quiescent	Quiescent_14	-2.221037502972582
+adrenal_gland_embryonic	(03) H3K36me3	14	Quiescent	Quiescent_14	0.19983637244114835
+adrenal_gland_embryonic	(13) terminal exon	14	Quiescent	Quiescent_14	-0.7462043388979309
+adrenal_gland_embryonic	(06) H3K4me1	14	Quiescent	Quiescent_14	0.17154979415122562
+adrenal_gland_embryonic	(14) terminal intron	14	Quiescent	Quiescent_14	-1.1182166677946652
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	14	Quiescent	Quiescent_14	-0.26801092999872955
+adrenal_gland_embryonic	(05) H3K27ac	14	Quiescent	Quiescent_14	0.2283666788653083
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	14	Quiescent	Quiescent_14	-0.6023718520756091
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	14	Quiescent	Quiescent_14	-0.6194595763125571
+adrenal_gland_embryonic	(09) initial exon	13	Transcribed	Transcribed_13	-0.4198540525207343
+adrenal_gland_embryonic	(01) H3K9me3	13	Transcribed	Transcribed_13	0.2664263777430173
+adrenal_gland_embryonic	(10) initial intron	13	Transcribed	Transcribed_13	-0.023609712035764476
+adrenal_gland_embryonic	(02) H3K27me3	13	Transcribed	Transcribed_13	0.1978710055481048
+adrenal_gland_embryonic	(11) internal exons	13	Transcribed	Transcribed_13	1.1676576914408423
+adrenal_gland_embryonic	(04) H3K4me3	13	Transcribed	Transcribed_13	0.3774622490421796
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	13	Transcribed	Transcribed_13	0.3535890587882719
+adrenal_gland_embryonic	(12) internal introns	13	Transcribed	Transcribed_13	1.3051296137722723
+adrenal_gland_embryonic	(03) H3K36me3	13	Transcribed	Transcribed_13	1.0915070451760631
+adrenal_gland_embryonic	(13) terminal exon	13	Transcribed	Transcribed_13	0.5884995433650202
+adrenal_gland_embryonic	(06) H3K4me1	13	Transcribed	Transcribed_13	0.3597921540215851
+adrenal_gland_embryonic	(14) terminal intron	13	Transcribed	Transcribed_13	0.6283034201095841
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	13	Transcribed	Transcribed_13	0.19242016973740064
+adrenal_gland_embryonic	(05) H3K27ac	13	Transcribed	Transcribed_13	0.35936774455035003
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	13	Transcribed	Transcribed_13	0.6201733239666395
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	13	Transcribed	Transcribed_13	-0.4627558587822833
+adrenal_gland_embryonic	(09) initial exon	6	RegPermissive	RegPermissive_6	-0.22667756694516975
+adrenal_gland_embryonic	(01) H3K9me3	6	RegPermissive	RegPermissive_6	0.3276615712675622
+adrenal_gland_embryonic	(10) initial intron	6	RegPermissive	RegPermissive_6	0.3068005245223805
+adrenal_gland_embryonic	(02) H3K27me3	6	RegPermissive	RegPermissive_6	0.2739761912583685
+adrenal_gland_embryonic	(11) internal exons	6	RegPermissive	RegPermissive_6	-0.8711116946006822
+adrenal_gland_embryonic	(04) H3K4me3	6	RegPermissive	RegPermissive_6	0.4592171773145154
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	6	RegPermissive	RegPermissive_6	0.047174117622541034
+adrenal_gland_embryonic	(12) internal introns	6	RegPermissive	RegPermissive_6	-0.8891340762757222
+adrenal_gland_embryonic	(03) H3K36me3	6	RegPermissive	RegPermissive_6	0.3427414708122645
+adrenal_gland_embryonic	(13) terminal exon	6	RegPermissive	RegPermissive_6	-0.15670084473395698
+adrenal_gland_embryonic	(06) H3K4me1	6	RegPermissive	RegPermissive_6	0.9695956880126428
+adrenal_gland_embryonic	(14) terminal intron	6	RegPermissive	RegPermissive_6	-0.32020962376373624
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	6	RegPermissive	RegPermissive_6	0.16883940147020465
+adrenal_gland_embryonic	(05) H3K27ac	6	RegPermissive	RegPermissive_6	0.592681154712948
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	6	RegPermissive	RegPermissive_6	-0.06729025327313265
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	6	RegPermissive	RegPermissive_6	0.17593929457288307
+adrenal_gland_embryonic	(09) initial exon	0	Bivalent	Bivalent_0	3.9168540682437163
+adrenal_gland_embryonic	(01) H3K9me3	0	Bivalent	Bivalent_0	1.0131605634189926
+adrenal_gland_embryonic	(10) initial intron	0	Bivalent	Bivalent_0	3.3581431713300565
+adrenal_gland_embryonic	(02) H3K27me3	0	Bivalent	Bivalent_0	2.874036391795632
+adrenal_gland_embryonic	(11) internal exons	0	Bivalent	Bivalent_0	1.5126858736630031
+adrenal_gland_embryonic	(04) H3K4me3	0	Bivalent	Bivalent_0	2.38989138536872
+adrenal_gland_embryonic	(16) 3' flanking (1000-10000 bp)	0	Bivalent	Bivalent_0	1.2860635731384251
+adrenal_gland_embryonic	(12) internal introns	0	Bivalent	Bivalent_0	0.9397855195589624
+adrenal_gland_embryonic	(03) H3K36me3	0	Bivalent	Bivalent_0	0.3396484210036454
+adrenal_gland_embryonic	(13) terminal exon	0	Bivalent	Bivalent_0	1.8013360875992404
+adrenal_gland_embryonic	(06) H3K4me1	0	Bivalent	Bivalent_0	2.285265898761597
+adrenal_gland_embryonic	(14) terminal intron	0	Bivalent	Bivalent_0	2.0725511321875043
+adrenal_gland_embryonic	(07) 5' flanking (1000-10000 bp)	0	Bivalent	Bivalent_0	1.1960765963369389
+adrenal_gland_embryonic	(05) H3K27ac	0	Bivalent	Bivalent_0	1.0776885479713596
+adrenal_gland_embryonic	(15) 3' flanking (1-1000 bp)	0	Bivalent	Bivalent_0	1.17474636937027
+adrenal_gland_embryonic	(08) 5' flanking (1-1000 bp)	0	Bivalent	Bivalent_0	3.4333336122972433
+trophoblast_cell	(09) initial exon	4	FacultativeHet	FacultativeHet_4	-0.4388199415606938
+trophoblast_cell	(01) H3K9me3	4	FacultativeHet	FacultativeHet_4	0.5332302771098167
+trophoblast_cell	(10) initial intron	4	FacultativeHet	FacultativeHet_4	-0.2597032247998024
+trophoblast_cell	(02) H3K27me3	4	FacultativeHet	FacultativeHet_4	0.8743298895889077
+trophoblast_cell	(11) internal exons	4	FacultativeHet	FacultativeHet_4	-0.9577279304100054
+trophoblast_cell	(04) H3K4me3	4	FacultativeHet	FacultativeHet_4	0.4969672660981429
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	4	FacultativeHet	FacultativeHet_4	-0.039324934474866534
+trophoblast_cell	(12) internal introns	4	FacultativeHet	FacultativeHet_4	-0.9416447772318004
+trophoblast_cell	(03) H3K36me3	4	FacultativeHet	FacultativeHet_4	0.1340830676266022
+trophoblast_cell	(13) terminal exon	4	FacultativeHet	FacultativeHet_4	-0.12766538129455338
+trophoblast_cell	(06) H3K4me1	4	FacultativeHet	FacultativeHet_4	0.2901209840828074
+trophoblast_cell	(14) terminal intron	4	FacultativeHet	FacultativeHet_4	-0.3190102940579147
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	4	FacultativeHet	FacultativeHet_4	0.10151717596163784
+trophoblast_cell	(05) H3K27ac	4	FacultativeHet	FacultativeHet_4	0.4928469568248123
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	4	FacultativeHet	FacultativeHet_4	-0.14430313356900212
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	4	FacultativeHet	FacultativeHet_4	-0.2264678935018801
+trophoblast_cell	(09) initial exon	8	Quiescent	Quiescent_8	-0.6740443351591208
+trophoblast_cell	(01) H3K9me3	8	Quiescent	Quiescent_8	0.4547918163967188
+trophoblast_cell	(10) initial intron	8	Quiescent	Quiescent_8	-0.2564010798627515
+trophoblast_cell	(02) H3K27me3	8	Quiescent	Quiescent_8	0.4343003415709985
+trophoblast_cell	(11) internal exons	8	Quiescent	Quiescent_8	0.005796633295795892
+trophoblast_cell	(04) H3K4me3	8	Quiescent	Quiescent_8	0.40464857267174986
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	8	Quiescent	Quiescent_8	0.15886987713819178
+trophoblast_cell	(12) internal introns	8	Quiescent	Quiescent_8	0.1572956313290699
+trophoblast_cell	(03) H3K36me3	8	Quiescent	Quiescent_8	0.2208767668050737
+trophoblast_cell	(13) terminal exon	8	Quiescent	Quiescent_8	-0.05357009895556572
+trophoblast_cell	(06) H3K4me1	8	Quiescent	Quiescent_8	0.2130215772366466
+trophoblast_cell	(14) terminal intron	8	Quiescent	Quiescent_8	-0.03196862709808988
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	8	Quiescent	Quiescent_8	0.16376977849289034
+trophoblast_cell	(05) H3K27ac	8	Quiescent	Quiescent_8	0.3729113195158301
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	8	Quiescent	Quiescent_8	0.1629036468522546
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	8	Quiescent	Quiescent_8	-0.33522273748460635
+trophoblast_cell	(09) initial exon	1	Quiescent	Quiescent_1	-1.591795703901405
+trophoblast_cell	(01) H3K9me3	1	Quiescent	Quiescent_1	0.23147156066540886
+trophoblast_cell	(10) initial intron	1	Quiescent	Quiescent_1	-1.0333425196250583
+trophoblast_cell	(02) H3K27me3	1	Quiescent	Quiescent_1	0.2618956884631311
+trophoblast_cell	(11) internal exons	1	Quiescent	Quiescent_1	-0.8457098586370642
+trophoblast_cell	(04) H3K4me3	1	Quiescent	Quiescent_1	0.2024466911369074
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	1	Quiescent	Quiescent_1	-0.4723884431203926
+trophoblast_cell	(12) internal introns	1	Quiescent	Quiescent_1	-0.6738344639121621
+trophoblast_cell	(03) H3K36me3	1	Quiescent	Quiescent_1	0.03119321662973648
+trophoblast_cell	(13) terminal exon	1	Quiescent	Quiescent_1	-0.8723023425874545
+trophoblast_cell	(06) H3K4me1	1	Quiescent	Quiescent_1	0.035999032534788214
+trophoblast_cell	(14) terminal intron	1	Quiescent	Quiescent_1	-0.9044409315021432
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	1	Quiescent	Quiescent_1	-0.4627625480372185
+trophoblast_cell	(05) H3K27ac	1	Quiescent	Quiescent_1	0.1958281048723494
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	1	Quiescent	Quiescent_1	-0.43378879159060346
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	1	Quiescent	Quiescent_1	-0.95755104838043
+trophoblast_cell	(09) initial exon	12	Quiescent	Quiescent_12	-0.3372984354645251
+trophoblast_cell	(01) H3K9me3	12	Quiescent	Quiescent_12	0.4041492792666167
+trophoblast_cell	(10) initial intron	12	Quiescent	Quiescent_12	0.1914981656937529
+trophoblast_cell	(02) H3K27me3	12	Quiescent	Quiescent_12	0.5596181389269668
+trophoblast_cell	(11) internal exons	12	Quiescent	Quiescent_12	-0.7879112938444613
+trophoblast_cell	(04) H3K4me3	12	Quiescent	Quiescent_12	0.4198405990452205
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	12	Quiescent	Quiescent_12	-0.06156732377590965
+trophoblast_cell	(12) internal introns	12	Quiescent	Quiescent_12	-0.8200747971569684
+trophoblast_cell	(03) H3K36me3	12	Quiescent	Quiescent_12	0.15829697043860266
+trophoblast_cell	(13) terminal exon	12	Quiescent	Quiescent_12	-0.2405967406249508
+trophoblast_cell	(06) H3K4me1	12	Quiescent	Quiescent_12	0.5682118921319627
+trophoblast_cell	(14) terminal intron	12	Quiescent	Quiescent_12	-0.4055293479138533
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	12	Quiescent	Quiescent_12	0.059859698930954226
+trophoblast_cell	(05) H3K27ac	12	Quiescent	Quiescent_12	0.6584348400542754
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	12	Quiescent	Quiescent_12	-0.16294736858232842
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	12	Quiescent	Quiescent_12	0.13251765257852802
+trophoblast_cell	(09) initial exon	10	Promoter	Promoter_10	3.840362219007608
+trophoblast_cell	(01) H3K9me3	10	Promoter	Promoter_10	0.67404519369538
+trophoblast_cell	(10) initial intron	10	Promoter	Promoter_10	2.456087450520375
+trophoblast_cell	(02) H3K27me3	10	Promoter	Promoter_10	0.5640522863701176
+trophoblast_cell	(11) internal exons	10	Promoter	Promoter_10	0.4954368549307027
+trophoblast_cell	(04) H3K4me3	10	Promoter	Promoter_10	1.2463953296866086
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	10	Promoter	Promoter_10	0.7953009519722555
+trophoblast_cell	(12) internal introns	10	Promoter	Promoter_10	-0.05794141767611138
+trophoblast_cell	(03) H3K36me3	10	Promoter	Promoter_10	0.3945027256811996
+trophoblast_cell	(13) terminal exon	10	Promoter	Promoter_10	1.0728658212382851
+trophoblast_cell	(06) H3K4me1	10	Promoter	Promoter_10	1.167338777846064
+trophoblast_cell	(14) terminal intron	10	Promoter	Promoter_10	0.985790966948012
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	10	Promoter	Promoter_10	0.6983563807548754
+trophoblast_cell	(05) H3K27ac	10	Promoter	Promoter_10	1.7121589705906417
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	10	Promoter	Promoter_10	0.8614725100758805
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	10	Promoter	Promoter_10	2.952833933803033
+trophoblast_cell	(09) initial exon	5	Quiescent	Quiescent_5	-1.4857427190239456
+trophoblast_cell	(01) H3K9me3	5	Quiescent	Quiescent_5	0.033879061509755615
+trophoblast_cell	(10) initial intron	5	Quiescent	Quiescent_5	-1.1962452841042044
+trophoblast_cell	(02) H3K27me3	5	Quiescent	Quiescent_5	0.035769367197502414
+trophoblast_cell	(11) internal exons	5	Quiescent	Quiescent_5	-1.6397165922136183
+trophoblast_cell	(04) H3K4me3	5	Quiescent	Quiescent_5	0.02759868077880189
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	5	Quiescent	Quiescent_5	-0.8131487907898416
+trophoblast_cell	(12) internal introns	5	Quiescent	Quiescent_5	-1.4627385507511712
+trophoblast_cell	(03) H3K36me3	5	Quiescent	Quiescent_5	0.006321835037294225
+trophoblast_cell	(13) terminal exon	5	Quiescent	Quiescent_5	-1.2924027358738612
+trophoblast_cell	(06) H3K4me1	5	Quiescent	Quiescent_5	0.006304748037629133
+trophoblast_cell	(14) terminal intron	5	Quiescent	Quiescent_5	-1.1567018607659445
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	5	Quiescent	Quiescent_5	-0.8487716452378781
+trophoblast_cell	(05) H3K27ac	5	Quiescent	Quiescent_5	0.02482748710435729
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	5	Quiescent	Quiescent_5	-1.0023904612955443
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	5	Quiescent	Quiescent_5	-1.225535583805227
+trophoblast_cell	(09) initial exon	7	RegPermissive	RegPermissive_7	0.5229072940393841
+trophoblast_cell	(01) H3K9me3	7	RegPermissive	RegPermissive_7	0.480861352927253
+trophoblast_cell	(10) initial intron	7	RegPermissive	RegPermissive_7	0.7890508174919499
+trophoblast_cell	(02) H3K27me3	7	RegPermissive	RegPermissive_7	0.5382583375344114
+trophoblast_cell	(11) internal exons	7	RegPermissive	RegPermissive_7	-0.6466983381115737
+trophoblast_cell	(04) H3K4me3	7	RegPermissive	RegPermissive_7	0.5342881354876756
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	7	RegPermissive	RegPermissive_7	0.20451630442551585
+trophoblast_cell	(12) internal introns	7	RegPermissive	RegPermissive_7	-0.822340616977995
+trophoblast_cell	(03) H3K36me3	7	RegPermissive	RegPermissive_7	0.27025832017334184
+trophoblast_cell	(13) terminal exon	7	RegPermissive	RegPermissive_7	0.13871351032486226
+trophoblast_cell	(06) H3K4me1	7	RegPermissive	RegPermissive_7	1.194755083655851
+trophoblast_cell	(14) terminal intron	7	RegPermissive	RegPermissive_7	0.034034010340573365
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	7	RegPermissive	RegPermissive_7	0.3589022346994737
+trophoblast_cell	(05) H3K27ac	7	RegPermissive	RegPermissive_7	1.614422884172681
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	7	RegPermissive	RegPermissive_7	0.13579739521540293
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	7	RegPermissive	RegPermissive_7	1.0771633550567008
+trophoblast_cell	(09) initial exon	15	Quiescent	Quiescent_15	-1.1618884336727984
+trophoblast_cell	(01) H3K9me3	15	Quiescent	Quiescent_15	0.2785584636565733
+trophoblast_cell	(10) initial intron	15	Quiescent	Quiescent_15	-0.745004779476313
+trophoblast_cell	(02) H3K27me3	15	Quiescent	Quiescent_15	0.5866697166004136
+trophoblast_cell	(11) internal exons	15	Quiescent	Quiescent_15	-1.142403488146402
+trophoblast_cell	(04) H3K4me3	15	Quiescent	Quiescent_15	0.262441779607702
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	15	Quiescent	Quiescent_15	-0.3868301507070957
+trophoblast_cell	(12) internal introns	15	Quiescent	Quiescent_15	-1.02149992674606
+trophoblast_cell	(03) H3K36me3	15	Quiescent	Quiescent_15	0.04147365215958485
+trophoblast_cell	(13) terminal exon	15	Quiescent	Quiescent_15	-0.6689956352418628
+trophoblast_cell	(06) H3K4me1	15	Quiescent	Quiescent_15	0.09862091251751474
+trophoblast_cell	(14) terminal intron	15	Quiescent	Quiescent_15	-0.8065197301370989
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	15	Quiescent	Quiescent_15	-0.3172186800548874
+trophoblast_cell	(05) H3K27ac	15	Quiescent	Quiescent_15	0.4104108117387795
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	15	Quiescent	Quiescent_15	-0.4055409531310648
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	15	Quiescent	Quiescent_15	-0.7271099356303571
+trophoblast_cell	(09) initial exon	9	Promoter	Promoter_9	4.5858308182853325
+trophoblast_cell	(01) H3K9me3	9	Promoter	Promoter_9	0.586674540741444
+trophoblast_cell	(10) initial intron	9	Promoter	Promoter_9	2.320937753726468
+trophoblast_cell	(02) H3K27me3	9	Promoter	Promoter_9	0.4555957084407747
+trophoblast_cell	(11) internal exons	9	Promoter	Promoter_9	0.15074959698100604
+trophoblast_cell	(04) H3K4me3	9	Promoter	Promoter_9	1.1788557035024587
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	9	Promoter	Promoter_9	0.927534923569434
+trophoblast_cell	(12) internal introns	9	Promoter	Promoter_9	-0.4673926500387444
+trophoblast_cell	(03) H3K36me3	9	Promoter	Promoter_9	0.3088653079870535
+trophoblast_cell	(13) terminal exon	9	Promoter	Promoter_9	1.1592289619804077
+trophoblast_cell	(06) H3K4me1	9	Promoter	Promoter_9	0.9865593366335059
+trophoblast_cell	(14) terminal intron	9	Promoter	Promoter_9	0.7203300599946441
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	9	Promoter	Promoter_9	0.7437000410836616
+trophoblast_cell	(05) H3K27ac	9	Promoter	Promoter_9	1.9263105162054543
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	9	Promoter	Promoter_9	1.0444671123963294
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	9	Promoter	Promoter_9	3.4492022467422254
+trophoblast_cell	(09) initial exon	11	FacultativeHet	FacultativeHet_11	0.20493855489873028
+trophoblast_cell	(01) H3K9me3	11	FacultativeHet	FacultativeHet_11	0.8657404078737944
+trophoblast_cell	(10) initial intron	11	FacultativeHet	FacultativeHet_11	0.16846655903785135
+trophoblast_cell	(02) H3K27me3	11	FacultativeHet	FacultativeHet_11	0.7222441061986453
+trophoblast_cell	(11) internal exons	11	FacultativeHet	FacultativeHet_11	-0.1641143266746231
+trophoblast_cell	(04) H3K4me3	11	FacultativeHet	FacultativeHet_11	0.7574540741790206
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	11	FacultativeHet	FacultativeHet_11	0.3233593850806745
+trophoblast_cell	(12) internal introns	11	FacultativeHet	FacultativeHet_11	-0.1996702550468824
+trophoblast_cell	(03) H3K36me3	11	FacultativeHet	FacultativeHet_11	0.3913471574609122
+trophoblast_cell	(13) terminal exon	11	FacultativeHet	FacultativeHet_11	0.36106655730189735
+trophoblast_cell	(06) H3K4me1	11	FacultativeHet	FacultativeHet_11	0.3910693520569035
+trophoblast_cell	(14) terminal intron	11	FacultativeHet	FacultativeHet_11	0.1803010913069892
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	11	FacultativeHet	FacultativeHet_11	0.3084153572357733
+trophoblast_cell	(05) H3K27ac	11	FacultativeHet	FacultativeHet_11	0.5010306952870708
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	11	FacultativeHet	FacultativeHet_11	0.19660220219527716
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	11	FacultativeHet	FacultativeHet_11	0.01863723434993409
+trophoblast_cell	(09) initial exon	2	LowConfidence	LowConfidence_2	1.2150188461050728
+trophoblast_cell	(01) H3K9me3	2	LowConfidence	LowConfidence_2	1.4225753067255158
+trophoblast_cell	(10) initial intron	2	LowConfidence	LowConfidence_2	0.7590884983630312
+trophoblast_cell	(02) H3K27me3	2	LowConfidence	LowConfidence_2	0.933885376938528
+trophoblast_cell	(11) internal exons	2	LowConfidence	LowConfidence_2	0.9710139711164296
+trophoblast_cell	(04) H3K4me3	2	LowConfidence	LowConfidence_2	1.0978833979573186
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	2	LowConfidence	LowConfidence_2	0.5711716696351145
+trophoblast_cell	(12) internal introns	2	LowConfidence	LowConfidence_2	0.6256799970767158
+trophoblast_cell	(03) H3K36me3	2	LowConfidence	LowConfidence_2	0.6605650838716656
+trophoblast_cell	(13) terminal exon	2	LowConfidence	LowConfidence_2	1.1423785991188715
+trophoblast_cell	(06) H3K4me1	2	LowConfidence	LowConfidence_2	0.4811090227709659
+trophoblast_cell	(14) terminal intron	2	LowConfidence	LowConfidence_2	0.8085961120384247
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	2	LowConfidence	LowConfidence_2	0.4896083747489174
+trophoblast_cell	(05) H3K27ac	2	LowConfidence	LowConfidence_2	0.582132374867003
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	2	LowConfidence	LowConfidence_2	0.5573720028393343
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	2	LowConfidence	LowConfidence_2	0.6481812691826622
+trophoblast_cell	(09) initial exon	3	RegPermissive	RegPermissive_3	0.5629711235565305
+trophoblast_cell	(01) H3K9me3	3	RegPermissive	RegPermissive_3	0.7992602256197431
+trophoblast_cell	(10) initial intron	3	RegPermissive	RegPermissive_3	0.7801408040499974
+trophoblast_cell	(02) H3K27me3	3	RegPermissive	RegPermissive_3	0.7393593657267337
+trophoblast_cell	(11) internal exons	3	RegPermissive	RegPermissive_3	-0.07775326537247639
+trophoblast_cell	(04) H3K4me3	3	RegPermissive	RegPermissive_3	0.7820337247902392
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	3	RegPermissive	RegPermissive_3	0.3370422776022897
+trophoblast_cell	(12) internal introns	3	RegPermissive	RegPermissive_3	-0.3072558195032791
+trophoblast_cell	(03) H3K36me3	3	RegPermissive	RegPermissive_3	0.4661291094718726
+trophoblast_cell	(13) terminal exon	3	RegPermissive	RegPermissive_3	0.35006678887185244
+trophoblast_cell	(06) H3K4me1	3	RegPermissive	RegPermissive_3	0.9052127733418468
+trophoblast_cell	(14) terminal intron	3	RegPermissive	RegPermissive_3	0.24097143831255466
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	3	RegPermissive	RegPermissive_3	0.3731281717572055
+trophoblast_cell	(05) H3K27ac	3	RegPermissive	RegPermissive_3	0.6401053671451535
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	3	RegPermissive	RegPermissive_3	0.16342840703133232
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	3	RegPermissive	RegPermissive_3	0.6723341384247451
+trophoblast_cell	(09) initial exon	14	Transcribed	Transcribed_14	-0.1590096239875572
+trophoblast_cell	(01) H3K9me3	14	Transcribed	Transcribed_14	0.5925368736118788
+trophoblast_cell	(10) initial intron	14	Transcribed	Transcribed_14	0.12729449279016375
+trophoblast_cell	(02) H3K27me3	14	Transcribed	Transcribed_14	0.5322462101696008
+trophoblast_cell	(11) internal exons	14	Transcribed	Transcribed_14	1.52555882332089
+trophoblast_cell	(04) H3K4me3	14	Transcribed	Transcribed_14	0.5455008846399422
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	14	Transcribed	Transcribed_14	0.659999449553929
+trophoblast_cell	(12) internal introns	14	Transcribed	Transcribed_14	1.7713155242948786
+trophoblast_cell	(03) H3K36me3	14	Transcribed	Transcribed_14	0.9399988110700978
+trophoblast_cell	(13) terminal exon	14	Transcribed	Transcribed_14	0.9272636508697564
+trophoblast_cell	(06) H3K4me1	14	Transcribed	Transcribed_14	0.35170347868002505
+trophoblast_cell	(14) terminal intron	14	Transcribed	Transcribed_14	1.2585051610380769
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	14	Transcribed	Transcribed_14	0.4781408620157091
+trophoblast_cell	(05) H3K27ac	14	Transcribed	Transcribed_14	0.5080702322184066
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	14	Transcribed	Transcribed_14	0.9784574010231728
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	14	Transcribed	Transcribed_14	-0.16894790941204754
+trophoblast_cell	(09) initial exon	13	Transcribed	Transcribed_13	0.5685162544165222
+trophoblast_cell	(01) H3K9me3	13	Transcribed	Transcribed_13	0.9567183927000681
+trophoblast_cell	(10) initial intron	13	Transcribed	Transcribed_13	0.9929370554189366
+trophoblast_cell	(02) H3K27me3	13	Transcribed	Transcribed_13	0.6492241886340586
+trophoblast_cell	(11) internal exons	13	Transcribed	Transcribed_13	1.842533541708086
+trophoblast_cell	(04) H3K4me3	13	Transcribed	Transcribed_13	0.901028630032004
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	13	Transcribed	Transcribed_13	0.8355115878035098
+trophoblast_cell	(12) internal introns	13	Transcribed	Transcribed_13	1.678911271793416
+trophoblast_cell	(03) H3K36me3	13	Transcribed	Transcribed_13	1.4236683465513078
+trophoblast_cell	(13) terminal exon	13	Transcribed	Transcribed_13	1.394956486296947
+trophoblast_cell	(06) H3K4me1	13	Transcribed	Transcribed_13	1.0189896890558399
+trophoblast_cell	(14) terminal intron	13	Transcribed	Transcribed_13	1.4108941486688693
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	13	Transcribed	Transcribed_13	0.6727785045750178
+trophoblast_cell	(05) H3K27ac	13	Transcribed	Transcribed_13	0.7970302497988982
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	13	Transcribed	Transcribed_13	1.1528562091884451
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	13	Transcribed	Transcribed_13	0.3544507734251567
+trophoblast_cell	(09) initial exon	6	Transcribed	Transcribed_6	0.4345581983980898
+trophoblast_cell	(01) H3K9me3	6	Transcribed	Transcribed_6	0.9686483887183724
+trophoblast_cell	(10) initial intron	6	Transcribed	Transcribed_6	0.007169292826698861
+trophoblast_cell	(02) H3K27me3	6	Transcribed	Transcribed_6	0.609327617616611
+trophoblast_cell	(11) internal exons	6	Transcribed	Transcribed_6	3.1732274311651985
+trophoblast_cell	(04) H3K4me3	6	Transcribed	Transcribed_6	0.8770873905913881
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	6	Transcribed	Transcribed_6	1.1500204672717087
+trophoblast_cell	(12) internal introns	6	Transcribed	Transcribed_6	3.09176242478418
+trophoblast_cell	(03) H3K36me3	6	Transcribed	Transcribed_6	2.1980827759880195
+trophoblast_cell	(13) terminal exon	6	Transcribed	Transcribed_6	1.9760201792289545
+trophoblast_cell	(06) H3K4me1	6	Transcribed	Transcribed_6	0.5284600448082888
+trophoblast_cell	(14) terminal intron	6	Transcribed	Transcribed_6	2.468650056769306
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	6	Transcribed	Transcribed_6	0.9449913947866796
+trophoblast_cell	(05) H3K27ac	6	Transcribed	Transcribed_6	0.6531172077414467
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	6	Transcribed	Transcribed_6	1.5251368978984057
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	6	Transcribed	Transcribed_6	0.20550906088283855
+trophoblast_cell	(09) initial exon	0	RegPermissive	RegPermissive_0	2.3817285996548336
+trophoblast_cell	(01) H3K9me3	0	RegPermissive	RegPermissive_0	0.9445884637845036
+trophoblast_cell	(10) initial intron	0	RegPermissive	RegPermissive_0	2.316691950327876
+trophoblast_cell	(02) H3K27me3	0	RegPermissive	RegPermissive_0	0.8314727232434055
+trophoblast_cell	(11) internal exons	0	RegPermissive	RegPermissive_0	0.8134011947678139
+trophoblast_cell	(04) H3K4me3	0	RegPermissive	RegPermissive_0	1.1053549407521024
+trophoblast_cell	(16) 3' flanking (1000-10000 bp)	0	RegPermissive	RegPermissive_0	0.8081612941398563
+trophoblast_cell	(12) internal introns	0	RegPermissive	RegPermissive_0	0.3495581405022695
+trophoblast_cell	(03) H3K36me3	0	RegPermissive	RegPermissive_0	0.6587502798351608
+trophoblast_cell	(13) terminal exon	0	RegPermissive	RegPermissive_0	0.9789922535613724
+trophoblast_cell	(06) H3K4me1	0	RegPermissive	RegPermissive_0	1.6183605598751682
+trophoblast_cell	(14) terminal intron	0	RegPermissive	RegPermissive_0	1.1219928559065693
+trophoblast_cell	(07) 5' flanking (1000-10000 bp)	0	RegPermissive	RegPermissive_0	0.7683763126711789
+trophoblast_cell	(05) H3K27ac	0	RegPermissive	RegPermissive_0	1.0513235143789899
+trophoblast_cell	(15) 3' flanking (1-1000 bp)	0	RegPermissive	RegPermissive_0	0.6792088329355616
+trophoblast_cell	(08) 5' flanking (1-1000 bp)	0	RegPermissive	RegPermissive_0	2.1877883742014643

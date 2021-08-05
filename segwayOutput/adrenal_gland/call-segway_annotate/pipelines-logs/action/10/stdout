@@ -1,0 +1,6 @@
+2021/03/11 02:47:31 Localization script execution started...
+2021/03/11 02:47:31 Localizing input gs://caper-data/scripts/resource_monitor/resource_monitor.sh -> /cromwell_root/monitoring.sh
+2021/03/11 02:47:32 Localizing input gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_train/traindir.tar.gz -> /cromwell_root/segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_train/traindir.tar.gz
+2021/03/11 02:47:33 Localizing input gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-make_genomedata/files.genomedata -> /cromwell_root/segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-make_genomedata/files.genomedata
+2021/03/11 02:47:45 Localizing input gs://segway-testing/segway/35f429b3-1726-4e57-b181-ea87e6c73277/call-segway_annotate/script -> /cromwell_root/script
+2021/03/11 02:47:46 Localization script execution complete.

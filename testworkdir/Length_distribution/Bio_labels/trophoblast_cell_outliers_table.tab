@@ -1,0 +1,8 @@
+                 length   >=1e4  =100  <=200
+bio_label                                   
+FacultativeHet   458007     NaN    34   6323
+LowConfidence    127762    22.0    14   5782
+Promoter          49956     NaN     4   1703
+Quiescent       1508745  2666.0   125  17423
+RegPermissive    305374     NaN    25   7616
+Transcribed      232341   115.0    25   8968

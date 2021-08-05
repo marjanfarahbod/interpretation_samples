@@ -1,0 +1,16 @@
+old	new
+4	Transcribed
+8	FacultativeHet
+1	Quiescent
+12	LowConfidence
+10	Enhancer
+5	Quiescent
+3	Transcribed
+9	FacultativeHet
+11	Promoter
+2	RegPermissive
+7	Quiescent
+14	Quiescent
+13	Transcribed
+6	RegPermissive
+0	Bivalent
