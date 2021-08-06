@@ -1,16 +1,20 @@
 Folder includes:
+------
 
-The interpretation code:
+**The interpretation code:**
 apply_samples.py
 util.py
 
-Plot code:
+**Plot code:**
 plots_final.py 
 
-Sample input data: segwayOutput
+**Sample input data:** segwayOutput
+
 Segway output for test samples.
 
-Sample output: testworkdir
+**Sample output:** testworkdir
+
+
 Includes classifier output and diagnostic plots from the apply_samples.py, for test samples.
 
 Note
