@@ -20,6 +20,8 @@ import util
 
 parser = argparse.ArgumentParser()
 parser.add_argument("workdir", type=Path)
+parser.add_argument("--model-path", type=Path)
+parser.add_argument("--input-path", type=Path)
 args = parser.parse_args()
 workdir = args.workdir
 
@@ -74,10 +76,10 @@ def log_mem():
 #######################################################
 
 # Trained sklearn model for classification
-model_fname = "../model.pickle.gz" # model in the experimentdir
+model_fname = str(args.model_path) if args.model_path is not None else "../model.pickle.gz" # model in the experimentdir
 model = pickle.load(gzip.open(model_fname))
 
-segtools_dir = Path('../segwayOutput') # contains a directory for each cell type, where segtool outputs are
+segtools_dir = args.input_path or Path('../segwayOutput') # contains a directory for each cell type, where segtool outputs are
 
 trackname_mapping_fname = segtools_dir / 'trackname_assay.txt'
 
@@ -334,7 +336,7 @@ length_dists = {}
 for celltype in length_dist_dir.listdir():
     celltype = celltype.basename()
     if celltype in ["run.py", "stdout.txt", "trackname_assay.txt"]: continue
-    length_dist_fname = length_dist_dir / celltype / "glob-a287da44f32bf6a3fc6d7c51c52ddafa" / "segment_sizes.tab"
+    length_dist_fname = length_dist_dir / celltype / "segment_sizes.tab"
     if length_dist_fname.exists():
         print(celltype)
         length_dists[celltype] = pandas.read_table(length_dist_fname)
@@ -599,7 +601,7 @@ if not Path("Length_distribution/Clusters").exists():
     Path("Length_distribution/Clusters").makedirs()
 
 for key in common_celltypes:
-	length_distr_fname = length_dist_dir / key / "glob-a287da44f32bf6a3fc6d7c51c52ddafa" / "length_distribution.tab"
+	length_distr_fname = length_dist_dir / key / "length_distribution.tab"
 	length_distr_df = pandas.read_table(length_distr_fname)
 
 	clusters = length_distr_df.label.unique()
@@ -644,7 +646,7 @@ if not Path("Length_distribution/Bio_labels").exists():
 		#bio_labels = pickle.load(f)
 
 for key in common_celltypes:
-	length_distr_fname = length_dist_dir / key / "glob-a287da44f32bf6a3fc6d7c51c52ddafa" / "length_distribution.tab"
+	length_distr_fname = length_dist_dir / key / "length_distribution.tab"
 	length_distr_df = pandas.read_table(length_distr_fname)
 
 	length_distr_df['label'] = length_distr_df['label'].astype(str)
