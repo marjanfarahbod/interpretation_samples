@@ -76,7 +76,7 @@ def log_mem():
 #######################################################
 
 # Trained sklearn model for classification
-model_fname = str(args.model_path) if args.model_path is not None else "../model.pickle.gz" # model in the experimentdir
+model_fname = str(args.model_path) if args.model_path is not None else "../model_300_reg.020_auc0.89V04.pickle.gz" # model in the experimentdir
 model = pickle.load(gzip.open(model_fname))
 
 segtools_dir = args.input_path or Path('../segwayOutput') # contains a directory for each cell type, where segtool outputs are
